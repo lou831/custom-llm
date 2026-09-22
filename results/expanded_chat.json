@@ -1,0 +1,49 @@
+{
+  "model": "llm_runs/20260922T221337_056140Z/model.pt",
+  "model_sha256": "9857856dd67042094ded65753e1b10e3c5700c87b18bdc10db1fbc75aaf2a78a",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the opposite of cold is",
+      "seed": 2026,
+      "response": "hot .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the soup was hot , but the tea was",
+      "seed": 2027,
+      "response": "cold .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of hungry is",
+      "seed": 2028,
+      "response": "big .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "yesterday we",
+      "seed": 2029,
+      "response": "called a friend .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "water freezes into",
+      "seed": 2030,
+      "response": "child is happy .",
+      "unknown_prompt_words": [
+        "freezes",
+        "into",
+        "water"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

@@ -1,0 +1,1707 @@
+she wanted the smooth box , not the rough box .
+the box was soft , but the car was loud .
+the car was heavy , but the cup was light .
+one bread felt bright while the other bread felt dim .
+this bottle is smooth and that rope is rough .
+the young stone and the old street are very different .
+one rope felt strong while the other rope felt weak .
+the thin street and the thick box are very different .
+she wanted the rough road , not the smooth road .
+one road felt deep while the other road felt shallow .
+the house was fast , but the blanket was slow .
+she wanted the happy box , not the sad box .
+in the morning the tea was warm ; by night it was cool .
+she wanted the strong jar , not the weak jar .
+the car was warm , but the bag was cool .
+in the morning the road was shallow ; by night it was deep .
+in the morning the basket was small ; by night it was big .
+the soft road and the loud rope are very different .
+the bottle was full , but the river was empty .
+one bag felt sweet while the other bag felt sour .
+this rope is sad and that car is happy .
+she wanted the hard room , not the soft room .
+she wanted the thick box , not the thin box .
+one tea felt sour while the other tea felt sweet .
+the car was soft , but the road was hard .
+the house was full , but the cup was empty .
+one tea felt noisy while the other tea felt quiet .
+the bottle was high , but the house was low .
+in the morning the stone was full ; by night it was empty .
+in the morning the cup was dim ; by night it was bright .
+one bottle felt short while the other bottle felt tall .
+the happy house and the sad tea are very different .
+the dry blanket and the wet tea are very different .
+the opposite of happy is sad .
+this house is thin and that bag is thick .
+one house felt slow while the other house felt fast .
+in the morning the basket was clean ; by night it was dirty .
+the tall jar and the short street are very different .
+in the morning the tea was loud ; by night it was soft .
+the opposite of warm is cool .
+this house is happy and that cup is sad .
+one blanket felt sour while the other blanket felt sweet .
+the rich street and the poor jar are very different .
+one tea felt poor while the other tea felt rich .
+she wanted the full bread , not the empty bread .
+she wanted the light house , not the heavy house .
+this box is cold and that road is hot .
+the sour car and the sweet box are very different .
+the hall was rough , but the street was smooth .
+she wanted the thick bread , not the thin bread .
+the street was soft , but the bag was loud .
+the deep box and the shallow bottle are very different .
+she wanted the round basket , not the square basket .
+in the morning the car was full ; by night it was empty .
+one house felt young while the other house felt old .
+this bread is full and that box is empty .
+she wanted the quiet bag , not the noisy bag .
+the smooth blanket and the rough jar are very different .
+one cup felt clean while the other cup felt dirty .
+the opposite of shallow is deep .
+one road felt big while the other road felt small .
+this bag is strong and that soup is weak .
+rich and poor are opposites .
+she wanted the early car , not the late car .
+the tea was big , but the stone was small .
+she wanted the cool tree , not the warm tree .
+she wanted the big bottle , not the small bottle .
+she wanted the young soup , not the old soup .
+she wanted the dry street , not the wet street .
+in the morning the box was weak ; by night it was strong .
+in the morning the tea was late ; by night it was early .
+the street was empty , but the road was full .
+this cup is full and that box is empty .
+the basket was dim , but the tree was bright .
+one bag felt fast while the other bag felt slow .
+one bread felt weak while the other bread felt strong .
+she wanted the loud tree , not the soft tree .
+in the morning the room was young ; by night it was old .
+the opposite of sweet is sour .
+the street was tall , but the tea was short .
+one cup felt strong while the other cup felt weak .
+this bag is loud and that car is soft .
+she wanted the early tea , not the late tea .
+clean and dirty are opposites .
+she wanted the deep road , not the shallow road .
+she wanted the poor street , not the rich street .
+this blanket is wet and that hall is dry .
+one blanket felt noisy while the other blanket felt quiet .
+the late box and the early bottle are very different .
+the hall was smooth , but the river was rough .
+one hall felt wet while the other hall felt dry .
+this river is dim and that street is bright .
+the room was smooth , but the hall was rough .
+this car is clean and that basket is dirty .
+she wanted the sweet basket , not the sour basket .
+one bottle felt sad while the other bottle felt happy .
+the cold stone and the hot car are very different .
+the opposite of round is square .
+she wanted the slow river , not the fast river .
+she wanted the happy tree , not the sad tree .
+one room felt sour while the other room felt sweet .
+the box was poor , but the house was rich .
+this tree is dirty and that stone is clean .
+in the morning the soup was hard ; by night it was soft .
+the hall was noisy , but the car was quiet .
+this bread is sad and that tea is happy .
+one cup felt short while the other cup felt tall .
+the loud street and the soft cup are very different .
+the soft river and the hard basket are very different .
+this street is empty and that house is full .
+this river is small and that road is big .
+she wanted the dirty hall , not the clean hall .
+this bag is round and that car is square .
+the high river and the low box are very different .
+she wanted the late blanket , not the early blanket .
+this car is bright and that jar is dim .
+in the morning the rope was slow ; by night it was fast .
+the cool hall and the warm tea are very different .
+this hall is fast and that stone is slow .
+the opposite of clean is dirty .
+one tea felt shallow while the other tea felt deep .
+she wanted the thick street , not the thin street .
+the car was loud , but the rope was soft .
+in the morning the jar was big ; by night it was small .
+the hall was dry , but the soup was wet .
+the blanket was fast , but the rope was slow .
+this rope is heavy and that car is light .
+in the morning the car was thick ; by night it was thin .
+this room is hard and that tea is soft .
+she wanted the cool hall , not the warm hall .
+the tall basket and the short soup are very different .
+the cool stone and the warm soup are very different .
+this river is clean and that tea is dirty .
+she wanted the soft jar , not the hard jar .
+the empty tea and the full stone are very different .
+this road is young and that rope is old .
+the fast blanket and the slow jar are very different .
+the soup was loud , but the bread was soft .
+she wanted the hard street , not the soft street .
+this hall is thin and that bag is thick .
+one car felt sweet while the other car felt sour .
+the bottle was young , but the bag was old .
+in the morning the car was poor ; by night it was rich .
+the jar was hot , but the stone was cold .
+she wanted the slow house , not the fast house .
+the square car and the round tree are very different .
+the early rope and the late basket are very different .
+the strong river and the weak house are very different .
+the stone was quiet , but the jar was noisy .
+she wanted the cool house , not the warm house .
+this jar is shallow and that soup is deep .
+this house is dirty and that bread is clean .
+one tree felt small while the other tree felt big .
+the sad bread and the happy box are very different .
+one soup felt quiet while the other soup felt noisy .
+this house is cool and that bread is warm .
+one stone felt rich while the other stone felt poor .
+in the morning the river was loud ; by night it was soft .
+the rough tree and the smooth house are very different .
+one road felt small while the other road felt big .
+she wanted the loud road , not the soft road .
+the basket was hard , but the cup was soft .
+she wanted the noisy room , not the quiet room .
+the river was late , but the street was early .
+this room is young and that tree is old .
+this house is late and that room is early .
+this tea is deep and that soup is shallow .
+the soft tree and the hard box are very different .
+she wanted the hot room , not the cold room .
+if something is not smooth , it may be rough .
+in the morning the cup was strong ; by night it was weak .
+one bag felt poor while the other bag felt rich .
+one jar felt old while the other jar felt young .
+round and square are opposites .
+this box is thick and that soup is thin .
+one rope felt quiet while the other rope felt noisy .
+the thin box and the thick soup are very different .
+the room was poor , but the tea was rich .
+she wanted the dim box , not the bright box .
+the room was hard , but the street was soft .
+in the morning the basket was cold ; by night it was hot .
+she wanted the fast bread , not the slow bread .
+this bag is hard and that rope is soft .
+the opposite of light is heavy .
+in the morning the cup was deep ; by night it was shallow .
+this car is smooth and that hall is rough .
+the room was sour , but the bread was sweet .
+the bread was small , but the car was big .
+she wanted the rough bread , not the smooth bread .
+the weak cup and the strong tea are very different .
+the hard stone and the soft cup are very different .
+this hall is low and that bread is high .
+she wanted the fast car , not the slow car .
+this stone is happy and that bag is sad .
+the deep tea and the shallow bottle are very different .
+this tree is hard and that street is soft .
+one blanket felt dry while the other blanket felt wet .
+if something is not soft , it may be hard .
+one bag felt tall while the other bag felt short .
+the light street and the heavy bottle are very different .
+the late room and the early tea are very different .
+this tree is shallow and that basket is deep .
+this road is soft and that stone is hard .
+this street is sad and that soup is happy .
+one tea felt dry while the other tea felt wet .
+the blanket was old , but the bread was young .
+the box was sour , but the bread was sweet .
+thick and thin are opposites .
+one basket felt thick while the other basket felt thin .
+the street was early , but the tea was late .
+she wanted the warm hall , not the cool hall .
+the bag was sweet , but the cup was sour .
+one bag felt happy while the other bag felt sad .
+one car felt clean while the other car felt dirty .
+in the morning the river was heavy ; by night it was light .
+one river felt deep while the other river felt shallow .
+she wanted the empty blanket , not the full blanket .
+in the morning the street was thin ; by night it was thick .
+the cold car and the hot river are very different .
+this jar is smooth and that room is rough .
+this tea is noisy and that stone is quiet .
+one stone felt early while the other stone felt late .
+the square cup and the round box are very different .
+in the morning the box was cold ; by night it was hot .
+she wanted the strong bread , not the weak bread .
+the loud jar and the soft blanket are very different .
+the tea was sad , but the road was happy .
+the warm tree and the cool basket are very different .
+the cup was heavy , but the box was light .
+the opposite of deep is shallow .
+one hall felt hot while the other hall felt cold .
+this box is rough and that blanket is smooth .
+the street was sad , but the bread was happy .
+one street felt late while the other street felt early .
+the box was quiet , but the street was noisy .
+one bread felt rough while the other bread felt smooth .
+she wanted the short cup , not the tall cup .
+the sad stone and the happy bottle are very different .
+the slow cup and the fast bottle are very different .
+in the morning the bottle was hard ; by night it was soft .
+the full road and the empty basket are very different .
+she wanted the cool road , not the warm road .
+one tree felt dirty while the other tree felt clean .
+this tea is young and that bread is old .
+one rope felt shallow while the other rope felt deep .
+one bottle felt young while the other bottle felt old .
+the empty bottle and the full road are very different .
+the smooth stone and the rough blanket are very different .
+this rope is bright and that soup is dim .
+this stone is heavy and that car is light .
+the stone was cool , but the box was warm .
+the empty rope and the full bottle are very different .
+one street felt young while the other street felt old .
+one stone felt low while the other stone felt high .
+one bread felt old while the other bread felt young .
+this stone is noisy and that box is quiet .
+this street is smooth and that bread is rough .
+she wanted the high soup , not the low soup .
+she wanted the full river , not the empty river .
+in the morning the tea was small ; by night it was big .
+the dry hall and the wet street are very different .
+the quiet road and the noisy soup are very different .
+one soup felt noisy while the other soup felt quiet .
+the bread was empty , but the river was full .
+this cup is sweet and that bottle is sour .
+one blanket felt poor while the other blanket felt rich .
+the hall was old , but the tree was young .
+high and low are opposites .
+the dry bottle and the wet tea are very different .
+the square soup and the round house are very different .
+one box felt late while the other box felt early .
+the opposite of slow is fast .
+this jar is high and that tea is low .
+in the morning the tea was short ; by night it was tall .
+this rope is bright and that box is dim .
+she wanted the hard basket , not the soft basket .
+the cup was clean , but the blanket was dirty .
+in the morning the road was round ; by night it was square .
+this jar is tall and that cup is short .
+she wanted the hot house , not the cold house .
+one rope felt sweet while the other rope felt sour .
+the opposite of early is late .
+in the morning the basket was bright ; by night it was dim .
+one hall felt cool while the other hall felt warm .
+in the morning the bread was short ; by night it was tall .
+this tree is loud and that hall is soft .
+one jar felt loud while the other jar felt soft .
+the hall was thin , but the tea was thick .
+the big cup and the small bottle are very different .
+in the morning the cup was square ; by night it was round .
+the sour bag and the sweet room are very different .
+the noisy rope and the quiet tree are very different .
+this house is thin and that box is thick .
+one tea felt weak while the other tea felt strong .
+this river is fast and that tea is slow .
+the opposite of sour is sweet .
+this tea is round and that river is square .
+in the morning the soup was wet ; by night it was dry .
+she wanted the heavy road , not the light road .
+the heavy road and the light jar are very different .
+the bread was square , but the jar was round .
+one blanket felt full while the other blanket felt empty .
+the bread was strong , but the tea was weak .
+she wanted the high rope , not the low rope .
+the opposite of thick is thin .
+one tree felt light while the other tree felt heavy .
+the tea was bright , but the hall was dim .
+the weak soup and the strong blanket are very different .
+one stone felt strong while the other stone felt weak .
+this blanket is square and that box is round .
+the basket was quiet , but the tea was noisy .
+one bread felt rich while the other bread felt poor .
+the box was full , but the car was empty .
+the tea was slow , but the tree was fast .
+the big blanket and the small cup are very different .
+in the morning the tea was dim ; by night it was bright .
+she wanted the cold room , not the hot room .
+in the morning the tree was empty ; by night it was full .
+she wanted the dim basket , not the bright basket .
+the rough tree and the smooth bag are very different .
+the wet bottle and the dry basket are very different .
+the stone was fast , but the bottle was slow .
+one jar felt big while the other jar felt small .
+the rope was soft , but the car was hard .
+one cup felt rich while the other cup felt poor .
+this road is loud and that river is soft .
+one room felt dim while the other room felt bright .
+the basket was deep , but the box was shallow .
+she wanted the dim cup , not the bright cup .
+one box felt cold while the other box felt hot .
+the box was early , but the room was late .
+one house felt tall while the other house felt short .
+the box was high , but the room was low .
+the poor box and the rich hall are very different .
+in the morning the soup was bright ; by night it was dim .
+she wanted the low tree , not the high tree .
+the hot box and the cold rope are very different .
+in the morning the car was short ; by night it was tall .
+this street is wet and that stone is dry .
+the cup was clean , but the street was dirty .
+in the morning the bag was rough ; by night it was smooth .
+the stone was warm , but the soup was cool .
+this basket is late and that tree is early .
+in the morning the room was wet ; by night it was dry .
+this street is soft and that hall is hard .
+one cup felt early while the other cup felt late .
+the room was quiet , but the soup was noisy .
+the street was slow , but the blanket was fast .
+the house was slow , but the bottle was fast .
+in the morning the blanket was rough ; by night it was smooth .
+the river was hot , but the room was cold .
+the noisy road and the quiet cup are very different .
+she wanted the sweet stone , not the sour stone .
+she wanted the low cup , not the high cup .
+the tree was big , but the cup was small .
+she wanted the hard cup , not the soft cup .
+one room felt high while the other room felt low .
+one room felt tall while the other room felt short .
+in the morning the street was dim ; by night it was bright .
+the bottle was high , but the car was low .
+she wanted the empty stone , not the full stone .
+one box felt small while the other box felt big .
+the bread was early , but the cup was late .
+the happy tree and the sad house are very different .
+strong and weak are opposites .
+the sad soup and the happy bag are very different .
+the low cup and the high box are very different .
+the basket was thick , but the car was thin .
+the street was hot , but the road was cold .
+one tea felt fast while the other tea felt slow .
+in the morning the road was square ; by night it was round .
+one cup felt happy while the other cup felt sad .
+the sad box and the happy river are very different .
+this rope is soft and that soup is loud .
+she wanted the bright river , not the dim river .
+the box was low , but the soup was high .
+in the morning the stone was early ; by night it was late .
+the opposite of rough is smooth .
+she wanted the short box , not the tall box .
+she wanted the thick hall , not the thin hall .
+the road was high , but the cup was low .
+this car is noisy and that rope is quiet .
+she wanted the hot bread , not the cold bread .
+the shallow cup and the deep house are very different .
+the bread was noisy , but the car was quiet .
+one cup felt small while the other cup felt big .
+one tea felt quiet while the other tea felt noisy .
+the box was square , but the room was round .
+in the morning the hall was wet ; by night it was dry .
+one hall felt loud while the other hall felt soft .
+the quiet cup and the noisy house are very different .
+this stone is dry and that bottle is wet .
+one hall felt soft while the other hall felt hard .
+the sweet car and the sour bread are very different .
+the tall stone and the short soup are very different .
+this road is square and that street is round .
+one jar felt shallow while the other jar felt deep .
+she wanted the dim stone , not the bright stone .
+this river is young and that bread is old .
+the rope was strong , but the bottle was weak .
+she wanted the heavy hall , not the light hall .
+in the morning the room was hard ; by night it was soft .
+one bottle felt light while the other bottle felt heavy .
+the house was cool , but the bottle was warm .
+this jar is loud and that box is soft .
+the quiet stone and the noisy river are very different .
+the bright hall and the dim road are very different .
+the room was sad , but the basket was happy .
+this rope is big and that tree is small .
+the young street and the old car are very different .
+this house is rich and that rope is poor .
+the opposite of dry is wet .
+one blanket felt small while the other blanket felt big .
+one room felt old while the other room felt young .
+the high blanket and the low soup are very different .
+one rope felt soft while the other rope felt hard .
+fast and slow are opposites .
+this street is warm and that bread is cool .
+this cup is full and that soup is empty .
+in the morning the hall was heavy ; by night it was light .
+this car is round and that tea is square .
+one river felt shallow while the other river felt deep .
+if something is not wet , it may be dry .
+the room was poor , but the bag was rich .
+one box felt weak while the other box felt strong .
+she wanted the heavy rope , not the light rope .
+she wanted the late room , not the early room .
+the house was dim , but the street was bright .
+one hall felt fast while the other hall felt slow .
+the heavy rope and the light blanket are very different .
+one street felt rough while the other street felt smooth .
+in the morning the river was warm ; by night it was cool .
+the tea was sweet , but the river was sour .
+this bag is deep and that car is shallow .
+she wanted the fast hall , not the slow hall .
+one car felt hard while the other car felt soft .
+she wanted the happy street , not the sad street .
+in the morning the street was square ; by night it was round .
+she wanted the young bread , not the old bread .
+she wanted the sour cup , not the sweet cup .
+the sweet tea and the sour room are very different .
+in the morning the house was cold ; by night it was hot .
+the hot rope and the cold hall are very different .
+the shallow box and the deep rope are very different .
+the young box and the old tree are very different .
+the round room and the square jar are very different .
+one room felt wet while the other room felt dry .
+one tea felt cool while the other tea felt warm .
+she wanted the cool soup , not the warm soup .
+the street was hard , but the rope was soft .
+the soup was warm , but the tea was cool .
+this cup is full and that street is empty .
+this bread is warm and that cup is cool .
+she wanted the weak bag , not the strong bag .
+the hall was cool , but the road was warm .
+the light soup and the heavy blanket are very different .
+smooth and rough are opposites .
+she wanted the square tree , not the round tree .
+this box is dirty and that stone is clean .
+the small river and the big rope are very different .
+this box is clean and that stone is dirty .
+she wanted the low bread , not the high bread .
+in the morning the car was hot ; by night it was cold .
+she wanted the soft street , not the loud street .
+the opposite of square is round .
+she wanted the happy bread , not the sad bread .
+one soup felt old while the other soup felt young .
+she wanted the square river , not the round river .
+this bottle is rich and that room is poor .
+this soup is cool and that room is warm .
+the dry house and the wet blanket are very different .
+the slow basket and the fast tree are very different .
+in the morning the bottle was soft ; by night it was loud .
+one bag felt hard while the other bag felt soft .
+this soup is rough and that basket is smooth .
+the high hall and the low soup are very different .
+the poor road and the rich bag are very different .
+the hard bread and the soft tree are very different .
+the old bag and the young cup are very different .
+in the morning the road was thin ; by night it was thick .
+one cup felt dim while the other cup felt bright .
+the opposite of heavy is light .
+one river felt bright while the other river felt dim .
+she wanted the wet bread , not the dry bread .
+the opposite of young is old .
+the tree was cold , but the hall was hot .
+she wanted the cold street , not the hot street .
+in the morning the bread was young ; by night it was old .
+she wanted the shallow hall , not the deep hall .
+the bottle was happy , but the hall was sad .
+this rope is square and that street is round .
+she wanted the soft tea , not the loud tea .
+one river felt sad while the other river felt happy .
+this box is soft and that room is hard .
+the house was sour , but the cup was sweet .
+she wanted the soft road , not the hard road .
+this bag is small and that room is big .
+in the morning the bottle was dim ; by night it was bright .
+she wanted the loud box , not the soft box .
+this tea is wet and that hall is dry .
+the opposite of poor is rich .
+this jar is hot and that river is cold .
+the late bottle and the early river are very different .
+this stone is dirty and that bag is clean .
+the tea was heavy , but the house was light .
+the rope was rich , but the bottle was poor .
+the square stone and the round hall are very different .
+the rough car and the smooth tea are very different .
+one cup felt late while the other cup felt early .
+in the morning the blanket was big ; by night it was small .
+this tree is rough and that jar is smooth .
+she wanted the short road , not the tall road .
+the happy cup and the sad road are very different .
+sweet and sour are opposites .
+the opposite of fast is slow .
+she wanted the tall bread , not the short bread .
+in the morning the box was round ; by night it was square .
+the road was low , but the street was high .
+in the morning the bag was round ; by night it was square .
+one stone felt sad while the other stone felt happy .
+she wanted the light room , not the heavy room .
+the noisy car and the quiet blanket are very different .
+in the morning the bag was thin ; by night it was thick .
+this road is thin and that tree is thick .
+one bag felt low while the other bag felt high .
+the short house and the tall room are very different .
+one soup felt short while the other soup felt tall .
+in the morning the cup was empty ; by night it was full .
+this stone is deep and that tree is shallow .
+she wanted the small blanket , not the big blanket .
+the noisy room and the quiet stone are very different .
+this rope is fast and that room is slow .
+this blanket is small and that bread is big .
+the round cup and the square bag are very different .
+the empty tree and the full box are very different .
+the cold road and the hot basket are very different .
+she wanted the sour box , not the sweet box .
+she wanted the empty hall , not the full hall .
+the tea was rich , but the hall was poor .
+this river is short and that street is tall .
+the rope was soft , but the road was hard .
+this tree is heavy and that tea is light .
+the tree was happy , but the hall was sad .
+she wanted the rich bag , not the poor bag .
+in the morning the cup was late ; by night it was early .
+the hard road and the soft bottle are very different .
+she wanted the early box , not the late box .
+she wanted the bright tea , not the dim tea .
+one street felt short while the other street felt tall .
+one cup felt slow while the other cup felt fast .
+she wanted the big house , not the small house .
+one tree felt hard while the other tree felt soft .
+the early car and the late river are very different .
+the rope was heavy , but the car was light .
+in the morning the rope was sweet ; by night it was sour .
+the tree was low , but the stone was high .
+the wet basket and the dry cup are very different .
+in the morning the tea was happy ; by night it was sad .
+she wanted the small bag , not the big bag .
+the opposite of strong is weak .
+the room was early , but the cup was late .
+the wet house and the dry bread are very different .
+she wanted the sweet house , not the sour house .
+in the morning the blanket was quiet ; by night it was noisy .
+one basket felt sweet while the other basket felt sour .
+the small street and the big cup are very different .
+she wanted the dirty basket , not the clean basket .
+she wanted the loud soup , not the soft soup .
+one blanket felt weak while the other blanket felt strong .
+she wanted the big road , not the small road .
+the hall was dry , but the basket was wet .
+one jar felt low while the other jar felt high .
+the bread was rich , but the cup was poor .
+one bread felt smooth while the other bread felt rough .
+one stone felt poor while the other stone felt rich .
+the box was young , but the basket was old .
+in the morning the bottle was wet ; by night it was dry .
+the short room and the tall tree are very different .
+she wanted the light basket , not the heavy basket .
+this basket is thick and that street is thin .
+the bottle was thick , but the bag was thin .
+this bag is high and that bottle is low .
+in the morning the room was sweet ; by night it was sour .
+this street is low and that bag is high .
+the car was sour , but the hall was sweet .
+this basket is cold and that bread is hot .
+one basket felt slow while the other basket felt fast .
+the bag was small , but the street was big .
+the soft cup and the hard hall are very different .
+she wanted the warm bread , not the cool bread .
+the box was dry , but the tree was wet .
+in the morning the bag was heavy ; by night it was light .
+the basket was cool , but the stone was warm .
+the light road and the heavy room are very different .
+she wanted the clean hall , not the dirty hall .
+this house is strong and that basket is weak .
+this road is sour and that stone is sweet .
+she wanted the late hall , not the early hall .
+the rich cup and the poor jar are very different .
+the bottle was light , but the room was heavy .
+the strong river and the weak blanket are very different .
+the tea was big , but the basket was small .
+she wanted the soft tree , not the hard tree .
+she wanted the smooth room , not the rough room .
+this hall is light and that basket is heavy .
+if something is not early , it may be late .
+the bag was weak , but the road was strong .
+one rope felt dirty while the other rope felt clean .
+this bottle is warm and that rope is cool .
+the bottle was poor , but the tea was rich .
+in the morning the car was light ; by night it was heavy .
+in the morning the street was hot ; by night it was cold .
+the house was late , but the jar was early .
+the blanket was dirty , but the bottle was clean .
+in the morning the rope was low ; by night it was high .
+in the morning the river was rich ; by night it was poor .
+the wet bag and the dry road are very different .
+the bright stone and the dim blanket are very different .
+in the morning the car was loud ; by night it was soft .
+she wanted the thin bag , not the thick bag .
+in the morning the box was thin ; by night it was thick .
+one bottle felt poor while the other bottle felt rich .
+in the morning the street was dirty ; by night it was clean .
+the tall room and the short river are very different .
+the slow stone and the fast hall are very different .
+one house felt bright while the other house felt dim .
+the blanket was full , but the jar was empty .
+in the morning the river was short ; by night it was tall .
+the cup was sour , but the river was sweet .
+she wanted the dirty tea , not the clean tea .
+the deep cup and the shallow basket are very different .
+the smooth road and the rough tea are very different .
+in the morning the jar was wet ; by night it was dry .
+the bread was young , but the tea was old .
+one tree felt clean while the other tree felt dirty .
+one bread felt thin while the other bread felt thick .
+one box felt thick while the other box felt thin .
+the thick stone and the thin tree are very different .
+in the morning the tree was quiet ; by night it was noisy .
+in the morning the bottle was big ; by night it was small .
+she wanted the thin car , not the thick car .
+in the morning the box was big ; by night it was small .
+the room was fast , but the tree was slow .
+the rope was short , but the street was tall .
+in the morning the road was old ; by night it was young .
+in the morning the tree was shallow ; by night it was deep .
+the hall was cold , but the jar was hot .
+the quiet tea and the noisy hall are very different .
+one bread felt high while the other bread felt low .
+the bottle was wet , but the street was dry .
+one street felt square while the other street felt round .
+the opposite of hard is soft .
+one basket felt soft while the other basket felt loud .
+this tea is weak and that blanket is strong .
+one car felt loud while the other car felt soft .
+she wanted the young street , not the old street .
+she wanted the warm box , not the cool box .
+one bread felt quiet while the other bread felt noisy .
+the bread was slow , but the road was fast .
+the bottle was full , but the soup was empty .
+the cup was happy , but the street was sad .
+this bread is dry and that rope is wet .
+the stone was sad , but the jar was happy .
+in the morning the hall was dry ; by night it was wet .
+this street is high and that box is low .
+if something is not rich , it may be poor .
+this river is hot and that road is cold .
+the full soup and the empty tea are very different .
+in the morning the room was fast ; by night it was slow .
+in the morning the street was high ; by night it was low .
+this bread is light and that soup is heavy .
+she wanted the quiet stone , not the noisy stone .
+she wanted the thin box , not the thick box .
+in the morning the car was bright ; by night it was dim .
+in the morning the room was empty ; by night it was full .
+the sour tree and the sweet basket are very different .
+in the morning the box was small ; by night it was big .
+this river is dim and that car is bright .
+one bag felt dirty while the other bag felt clean .
+she wanted the dirty tree , not the clean tree .
+the box was slow , but the cup was fast .
+she wanted the clean stone , not the dirty stone .
+she wanted the hard bag , not the soft bag .
+the jar was short , but the stone was tall .
+this house is small and that bread is big .
+this box is short and that cup is tall .
+this hall is cold and that blanket is hot .
+she wanted the rich tree , not the poor tree .
+the bag was small , but the tree was big .
+the rough soup and the smooth room are very different .
+this hall is noisy and that bag is quiet .
+in the morning the road was rough ; by night it was smooth .
+the tea was round , but the rope was square .
+the rough box and the smooth tree are very different .
+one blanket felt shallow while the other blanket felt deep .
+she wanted the short hall , not the tall hall .
+in the morning the rope was sour ; by night it was sweet .
+the soft room and the loud stone are very different .
+in the morning the tea was poor ; by night it was rich .
+she wanted the low basket , not the high basket .
+in the morning the soup was dirty ; by night it was clean .
+this tree is wet and that car is dry .
+this house is dirty and that street is clean .
+one basket felt square while the other basket felt round .
+this tea is soft and that soup is loud .
+this tea is big and that jar is small .
+the opposite of late is early .
+one jar felt fast while the other jar felt slow .
+in the morning the road was late ; by night it was early .
+she wanted the slow box , not the fast box .
+she wanted the sad basket , not the happy basket .
+the tree was hot , but the rope was cold .
+she wanted the slow blanket , not the fast blanket .
+the early bag and the late house are very different .
+the bag was wet , but the jar was dry .
+one bottle felt warm while the other bottle felt cool .
+this river is warm and that cup is cool .
+one car felt deep while the other car felt shallow .
+the opposite of soft is hard .
+the loud box and the soft room are very different .
+this street is rough and that rope is smooth .
+the loud basket and the soft house are very different .
+this bag is quiet and that house is noisy .
+she wanted the fast tea , not the slow tea .
+the jar was cold , but the house was hot .
+in the morning the bread was old ; by night it was young .
+she wanted the old bottle , not the young bottle .
+the soup was dirty , but the rope was clean .
+she wanted the hot road , not the cold road .
+one river felt empty while the other river felt full .
+the high bag and the low road are very different .
+the hall was happy , but the stone was sad .
+the clean jar and the dirty cup are very different .
+in the morning the hall was clean ; by night it was dirty .
+in the morning the tree was tall ; by night it was short .
+in the morning the soup was young ; by night it was old .
+she wanted the noisy hall , not the quiet hall .
+this stone is empty and that tree is full .
+this basket is high and that hall is low .
+the cup was weak , but the bottle was strong .
+one tea felt rough while the other tea felt smooth .
+this rope is short and that tree is tall .
+the opposite of dirty is clean .
+the cup was short , but the tree was tall .
+the opposite of rich is poor .
+one hall felt dry while the other hall felt wet .
+she wanted the sweet blanket , not the sour blanket .
+the poor blanket and the rich hall are very different .
+one jar felt square while the other jar felt round .
+the big tea and the small road are very different .
+she wanted the cool jar , not the warm jar .
+the tea was clean , but the bag was dirty .
+in the morning the car was dry ; by night it was wet .
+one room felt round while the other room felt square .
+the car was bright , but the stone was dim .
+this hall is strong and that bottle is weak .
+one stone felt rough while the other stone felt smooth .
+the dry stone and the wet basket are very different .
+the dim box and the bright street are very different .
+the tea was thick , but the blanket was thin .
+she wanted the sad jar , not the happy jar .
+one bread felt soft while the other bread felt loud .
+the bottle was small , but the cup was big .
+this river is tall and that cup is short .
+if something is not big , it may be small .
+this basket is early and that soup is late .
+this bottle is fast and that box is slow .
+the house was poor , but the bread was rich .
+one street felt hot while the other street felt cold .
+she wanted the shallow bottle , not the deep bottle .
+she wanted the light hall , not the heavy hall .
+the blanket was small , but the soup was big .
+she wanted the tall bag , not the short bag .
+she wanted the small stone , not the big stone .
+the bag was tall , but the stone was short .
+this road is thick and that jar is thin .
+the young hall and the old tree are very different .
+she wanted the bright bottle , not the dim bottle .
+one cup felt thick while the other cup felt thin .
+the soup was quiet , but the river was noisy .
+the high cup and the low street are very different .
+she wanted the noisy stone , not the quiet stone .
+in the morning the tea was weak ; by night it was strong .
+she wanted the short street , not the tall street .
+in the morning the room was slow ; by night it was fast .
+one hall felt thin while the other hall felt thick .
+the light house and the heavy street are very different .
+the big tea and the small bread are very different .
+this blanket is late and that tea is early .
+this soup is short and that cup is tall .
+the basket was smooth , but the box was rough .
+the warm box and the cool room are very different .
+this tea is round and that street is square .
+the cold basket and the hot river are very different .
+one hall felt dim while the other hall felt bright .
+this cup is weak and that street is strong .
+this hall is old and that stone is young .
+this blanket is sweet and that river is sour .
+the room was soft , but the bottle was loud .
+the rope was rich , but the box was poor .
+this box is thin and that hall is thick .
+this car is young and that house is old .
+in the morning the hall was hot ; by night it was cold .
+the car was round , but the soup was square .
+one tree felt smooth while the other tree felt rough .
+she wanted the smooth hall , not the rough hall .
+she wanted the poor soup , not the rich soup .
+she wanted the rich jar , not the poor jar .
+one blanket felt quiet while the other blanket felt noisy .
+the happy bread and the sad street are very different .
+she wanted the clean bottle , not the dirty bottle .
+in the morning the bread was clean ; by night it was dirty .
+one road felt soft while the other road felt hard .
+in the morning the jar was smooth ; by night it was rough .
+the soup was warm , but the stone was cool .
+this tea is dry and that bag is wet .
+one basket felt happy while the other basket felt sad .
+the room was old , but the soup was young .
+one basket felt round while the other basket felt square .
+if something is not high , it may be low .
+in the morning the cup was dirty ; by night it was clean .
+the road was bright , but the room was dim .
+in the morning the blanket was small ; by night it was big .
+in the morning the car was old ; by night it was young .
+the tree was cold , but the box was hot .
+she wanted the soft box , not the hard box .
+in the morning the tree was weak ; by night it was strong .
+she wanted the tall stone , not the short stone .
+in the morning the river was poor ; by night it was rich .
+the light stone and the heavy basket are very different .
+this river is old and that car is young .
+she wanted the early room , not the late room .
+in the morning the tea was thick ; by night it was thin .
+the tea was thin , but the hall was thick .
+this jar is round and that bag is square .
+the fast car and the slow soup are very different .
+she wanted the full cup , not the empty cup .
+in the morning the bread was soft ; by night it was loud .
+the blanket was rich , but the rope was poor .
+one road felt tall while the other road felt short .
+the stone was rough , but the room was smooth .
+in the morning the road was smooth ; by night it was rough .
+the rough bread and the smooth soup are very different .
+she wanted the thin river , not the thick river .
+one box felt dirty while the other box felt clean .
+the soup was light , but the bottle was heavy .
+the tea was bright , but the bottle was dim .
+the hall was low , but the rope was high .
+the bottle was loud , but the tree was soft .
+this hall is rich and that cup is poor .
+one road felt dim while the other road felt bright .
+one bag felt full while the other bag felt empty .
+in the morning the hall was sour ; by night it was sweet .
+the bottle was shallow , but the bread was deep .
+in the morning the tea was cold ; by night it was hot .
+in the morning the tree was old ; by night it was young .
+in the morning the jar was shallow ; by night it was deep .
+this box is soft and that blanket is hard .
+she wanted the soft bottle , not the loud bottle .
+the rope was short , but the box was tall .
+she wanted the dry bag , not the wet bag .
+the early blanket and the late room are very different .
+one soup felt sad while the other soup felt happy .
+she wanted the high jar , not the low jar .
+in the morning the tree was early ; by night it was late .
+this road is happy and that car is sad .
+this tea is late and that rope is early .
+the soup was square , but the box was round .
+big and small are opposites .
+the bottle was old , but the river was young .
+the stone was soft , but the tea was loud .
+in the morning the tea was big ; by night it was small .
+in the morning the road was light ; by night it was heavy .
+she wanted the wet street , not the dry street .
+the bright jar and the dim street are very different .
+this basket is dirty and that bag is clean .
+if something is not strong , it may be weak .
+she wanted the soft bag , not the hard bag .
+she wanted the rough room , not the smooth room .
+one river felt tall while the other river felt short .
+one bread felt young while the other bread felt old .
+in the morning the room was loud ; by night it was soft .
+one river felt full while the other river felt empty .
+the sweet tree and the sour box are very different .
+the full room and the empty soup are very different .
+she wanted the thin tree , not the thick tree .
+the opposite of tall is short .
+one bag felt cold while the other bag felt hot .
+one soup felt soft while the other soup felt hard .
+the full basket and the empty bottle are very different .
+one bottle felt low while the other bottle felt high .
+in the morning the soup was cold ; by night it was hot .
+the dirty bottle and the clean river are very different .
+the bottle was hot , but the car was cold .
+the stone was full , but the car was empty .
+in the morning the stone was big ; by night it was small .
+she wanted the late soup , not the early soup .
+the hall was dirty , but the jar was clean .
+she wanted the round rope , not the square rope .
+one tea felt old while the other tea felt young .
+this bread is quiet and that road is noisy .
+the box was loud , but the car was soft .
+the soup was thin , but the bread was thick .
+the stone was fast , but the jar was slow .
+the hall was cold , but the blanket was hot .
+the car was noisy , but the jar was quiet .
+in the morning the street was slow ; by night it was fast .
+one tea felt big while the other tea felt small .
+the round jar and the square house are very different .
+if something is not deep , it may be shallow .
+the young street and the old soup are very different .
+she wanted the sad room , not the happy room .
+the hall was short , but the tree was tall .
+one jar felt weak while the other jar felt strong .
+in the morning the box was low ; by night it was high .
+the opposite of smooth is rough .
+she wanted the full bag , not the empty bag .
+one bottle felt soft while the other bottle felt loud .
+this car is rich and that basket is poor .
+this tea is slow and that blanket is fast .
+in the morning the rope was noisy ; by night it was quiet .
+the bottle was rough , but the bag was smooth .
+this stone is smooth and that bread is rough .
+the street was bright , but the rope was dim .
+one basket felt clean while the other basket felt dirty .
+in the morning the bag was sour ; by night it was sweet .
+the stone was thick , but the car was thin .
+the wet tea and the dry hall are very different .
+one soup felt hot while the other soup felt cold .
+in the morning the bread was sweet ; by night it was sour .
+she wanted the sour road , not the sweet road .
+the clean hall and the dirty jar are very different .
+one stone felt dim while the other stone felt bright .
+she wanted the hard road , not the soft road .
+if something is not heavy , it may be light .
+the short bread and the tall road are very different .
+this tree is quiet and that bag is noisy .
+in the morning the room was sour ; by night it was sweet .
+the deep bottle and the shallow car are very different .
+the house was sad , but the street was happy .
+she wanted the quiet blanket , not the noisy blanket .
+one hall felt cold while the other hall felt hot .
+the happy car and the sad box are very different .
+the box was rough , but the bottle was smooth .
+the tree was rough , but the rope was smooth .
+the dim jar and the bright stone are very different .
+the shallow bag and the deep tea are very different .
+the car was dim , but the stone was bright .
+the basket was soft , but the rope was hard .
+one house felt old while the other house felt young .
+the opposite of dim is bright .
+one cup felt sour while the other cup felt sweet .
+she wanted the poor blanket , not the rich blanket .
+this blanket is small and that tea is big .
+the small river and the big tea are very different .
+she wanted the rich stone , not the poor stone .
+one tea felt square while the other tea felt round .
+she wanted the young rope , not the old rope .
+in the morning the street was soft ; by night it was hard .
+she wanted the old road , not the young road .
+she wanted the cold cup , not the hot cup .
+this blanket is empty and that basket is full .
+the loud cup and the soft box are very different .
+she wanted the short bag , not the tall bag .
+one street felt hard while the other street felt soft .
+she wanted the noisy tea , not the quiet tea .
+if something is not tall , it may be short .
+the clean house and the dirty car are very different .
+one tree felt thick while the other tree felt thin .
+the big road and the small basket are very different .
+she wanted the poor jar , not the rich jar .
+the room was low , but the cup was high .
+if something is not clean , it may be dirty .
+one tree felt noisy while the other tree felt quiet .
+in the morning the room was sad ; by night it was happy .
+in the morning the tree was dim ; by night it was bright .
+the smooth tea and the rough blanket are very different .
+one street felt round while the other street felt square .
+she wanted the smooth car , not the rough car .
+in the morning the hall was short ; by night it was tall .
+in the morning the box was old ; by night it was young .
+the tea was cold , but the box was hot .
+the opposite of short is tall .
+she wanted the rich house , not the poor house .
+one bag felt smooth while the other bag felt rough .
+in the morning the soup was happy ; by night it was sad .
+in the morning the car was rough ; by night it was smooth .
+one box felt big while the other box felt small .
+this house is smooth and that bag is rough .
+the room was sweet , but the river was sour .
+this road is low and that house is high .
+in the morning the bread was empty ; by night it was full .
+in the morning the jar was deep ; by night it was shallow .
+this stone is thick and that bread is thin .
+the street was thin , but the basket was thick .
+this cup is square and that room is round .
+the dirty street and the clean road are very different .
+the cup was round , but the street was square .
+one stone felt warm while the other stone felt cool .
+this road is deep and that cup is shallow .
+the strong river and the weak cup are very different .
+in the morning the bread was weak ; by night it was strong .
+the jar was noisy , but the room was quiet .
+in the morning the soup was strong ; by night it was weak .
+the opposite of cool is warm .
+this tea is tall and that basket is short .
+the opposite of small is big .
+in the morning the room was clean ; by night it was dirty .
+she wanted the big jar , not the small jar .
+in the morning the tea was bright ; by night it was dim .
+in the morning the bottle was noisy ; by night it was quiet .
+she wanted the bright box , not the dim box .
+this rope is heavy and that stone is light .
+the jar was tall , but the room was short .
+the late soup and the early tea are very different .
+the round river and the square house are very different .
+one hall felt light while the other hall felt heavy .
+the soft jar and the hard bottle are very different .
+the cup was warm , but the river was cool .
+the old car and the young bottle are very different .
+the bread was sad , but the house was happy .
+this stone is weak and that car is strong .
+this cup is hot and that rope is cold .
+one room felt sweet while the other room felt sour .
+the fast house and the slow hall are very different .
+this river is young and that room is old .
+this bread is early and that cup is late .
+the old bottle and the young house are very different .
+this tea is dry and that jar is wet .
+the room was shallow , but the river was deep .
+the dim bread and the bright box are very different .
+the car was empty , but the cup was full .
+she wanted the sour hall , not the sweet hall .
+she wanted the clean car , not the dirty car .
+the soup was cool , but the house was warm .
+this box is poor and that house is rich .
+the river was empty , but the bottle was full .
+in the morning the hall was strong ; by night it was weak .
+the tea was high , but the bread was low .
+the box was light , but the rope was heavy .
+the room was young , but the bread was old .
+one car felt fast while the other car felt slow .
+the empty bottle and the full basket are very different .
+the fast street and the slow road are very different .
+this rope is wet and that jar is dry .
+the big blanket and the small bottle are very different .
+in the morning the rope was fast ; by night it was slow .
+the hall was late , but the tree was early .
+the cup was early , but the car was late .
+in the morning the stone was high ; by night it was low .
+in the morning the street was rich ; by night it was poor .
+the full soup and the empty house are very different .
+this river is low and that basket is high .
+this tree is poor and that river is rich .
+this hall is big and that street is small .
+she wanted the dry room , not the wet room .
+one street felt dry while the other street felt wet .
+the wet river and the dry blanket are very different .
+she wanted the thin road , not the thick road .
+in the morning the rope was tall ; by night it was short .
+in the morning the car was wet ; by night it was dry .
+the soup was dim , but the road was bright .
+the road was short , but the stone was tall .
+the sweet tea and the sour rope are very different .
+one street felt warm while the other street felt cool .
+she wanted the strong hall , not the weak hall .
+the warm rope and the cool basket are very different .
+one rope felt hard while the other rope felt soft .
+this bottle is sweet and that tree is sour .
+this jar is early and that street is late .
+in the morning the bottle was sweet ; by night it was sour .
+she wanted the weak basket , not the strong basket .
+she wanted the early rope , not the late rope .
+this box is big and that jar is small .
+the rich stone and the poor bottle are very different .
+in the morning the stone was low ; by night it was high .
+the light bread and the heavy jar are very different .
+the rich tea and the poor basket are very different .
+she wanted the strong river , not the weak river .
+she wanted the sweet tea , not the sour tea .
+the weak road and the strong box are very different .
+she wanted the sweet road , not the sour road .
+the tree was soft , but the street was loud .
+this street is dim and that bread is bright .
+she wanted the square soup , not the round soup .
+this bag is rich and that river is poor .
+in the morning the tree was late ; by night it was early .
+she wanted the cold car , not the hot car .
+in the morning the bag was hard ; by night it was soft .
+the small blanket and the big bottle are very different .
+in the morning the house was warm ; by night it was cool .
+in the morning the house was deep ; by night it was shallow .
+one soup felt dirty while the other soup felt clean .
+in the morning the room was low ; by night it was high .
+one tree felt loud while the other tree felt soft .
+she wanted the wet bottle , not the dry bottle .
+in the morning the hall was fast ; by night it was slow .
+in the morning the rope was shallow ; by night it was deep .
+the empty street and the full bag are very different .
+one basket felt deep while the other basket felt shallow .
+in the morning the car was happy ; by night it was sad .
+one cup felt round while the other cup felt square .
+the thick river and the thin bag are very different .
+she wanted the light bread , not the heavy bread .
+one bottle felt wet while the other bottle felt dry .
+the road was heavy , but the street was light .
+in the morning the river was dry ; by night it was wet .
+one hall felt sweet while the other hall felt sour .
+if something is not round , it may be square .
+she wanted the dim street , not the bright street .
+she wanted the round jar , not the square jar .
+she wanted the small tea , not the big tea .
+the soft road and the loud bag are very different .
+this bag is early and that bottle is late .
+this bread is shallow and that hall is deep .
+she wanted the young tea , not the old tea .
+the sad box and the happy rope are very different .
+this road is sour and that basket is sweet .
+she wanted the old basket , not the young basket .
+the room was shallow , but the bag was deep .
+the cup was hard , but the car was soft .
+in the morning the rope was high ; by night it was low .
+the car was hot , but the house was cold .
+this car is strong and that room is weak .
+this bread is shallow and that road is deep .
+the bag was strong , but the jar was weak .
+she wanted the high blanket , not the low blanket .
+one tree felt quiet while the other tree felt noisy .
+in the morning the rope was young ; by night it was old .
+one cup felt empty while the other cup felt full .
+the clean basket and the dirty bottle are very different .
+this car is heavy and that room is light .
+the hot tea and the cold car are very different .
+the slow hall and the fast bread are very different .
+in the morning the stone was young ; by night it was old .
+one basket felt bright while the other basket felt dim .
+in the morning the river was low ; by night it was high .
+this tree is slow and that river is fast .
+in the morning the river was high ; by night it was low .
+in the morning the bag was happy ; by night it was sad .
+this tea is quiet and that bottle is noisy .
+this jar is square and that stone is round .
+in the morning the house was strong ; by night it was weak .
+in the morning the river was thin ; by night it was thick .
+she wanted the high road , not the low road .
+the bag was empty , but the tree was full .
+in the morning the jar was rich ; by night it was poor .
+in the morning the jar was soft ; by night it was loud .
+the sweet river and the sour cup are very different .
+this street is low and that box is high .
+the weak tree and the strong soup are very different .
+in the morning the room was strong ; by night it was weak .
+the tree was late , but the street was early .
+one tree felt soft while the other tree felt loud .
+this box is old and that river is young .
+one tea felt soft while the other tea felt loud .
+the bag was clean , but the tree was dirty .
+she wanted the early jar , not the late jar .
+one bread felt fast while the other bread felt slow .
+this tree is warm and that bread is cool .
+this soup is sad and that box is happy .
+the sweet hall and the sour soup are very different .
+this box is sweet and that river is sour .
+this tree is soft and that stone is loud .
+if something is not warm , it may be cool .
+this river is happy and that road is sad .
+this cup is sour and that house is sweet .
+one room felt clean while the other room felt dirty .
+the small street and the big room are very different .
+this room is heavy and that soup is light .
+the shallow blanket and the deep cup are very different .
+one tea felt high while the other tea felt low .
+the opposite of bright is dim .
+in the morning the cup was light ; by night it was heavy .
+the low jar and the high box are very different .
+one road felt young while the other road felt old .
+the warm jar and the cool river are very different .
+the cup was big , but the hall was small .
+this house is shallow and that bottle is deep .
+the soup was sweet , but the river was sour .
+in the morning the house was thick ; by night it was thin .
+she wanted the strong room , not the weak room .
+she wanted the round street , not the square street .
+the box was hard , but the stone was soft .
+she wanted the light street , not the heavy street .
+in the morning the box was soft ; by night it was hard .
+in the morning the soup was sad ; by night it was happy .
+one box felt full while the other box felt empty .
+this rope is cool and that blanket is warm .
+in the morning the road was dry ; by night it was wet .
+she wanted the shallow road , not the deep road .
+the square tea and the round box are very different .
+deep and shallow are opposites .
+she wanted the quiet jar , not the noisy jar .
+she wanted the soft car , not the loud car .
+the opposite of high is low .
+one stone felt light while the other stone felt heavy .
+she wanted the sad tea , not the happy tea .
+in the morning the basket was hard ; by night it was soft .
+this basket is poor and that river is rich .
+the bottle was dirty , but the box was clean .
+the tree was slow , but the house was fast .
+one tea felt tall while the other tea felt short .
+the small rope and the big blanket are very different .
+she wanted the poor hall , not the rich hall .
+the dirty tea and the clean tree are very different .
+the street was sweet , but the bread was sour .
+the car was deep , but the hall was shallow .
+one box felt low while the other box felt high .
+in the morning the rope was heavy ; by night it was light .
+she wanted the weak river , not the strong river .
+she wanted the old soup , not the young soup .
+this car is sour and that hall is sweet .
+she wanted the slow rope , not the fast rope .
+she wanted the heavy basket , not the light basket .
+one tree felt happy while the other tree felt sad .
+this road is dry and that box is wet .
+one tree felt rich while the other tree felt poor .
+the bright room and the dim house are very different .
+she wanted the full house , not the empty house .
+one cup felt rough while the other cup felt smooth .
+this bread is sad and that room is happy .
+the box was square , but the bag was round .
+old and young are opposites .
+this cup is cool and that hall is warm .
+in the morning the hall was loud ; by night it was soft .
+in the morning the basket was poor ; by night it was rich .
+in the morning the road was empty ; by night it was full .
+one road felt sour while the other road felt sweet .
+the room was dim , but the tea was bright .
+the blanket was clean , but the car was dirty .
+the cool jar and the warm room are very different .
+this tree is quiet and that house is noisy .
+the late blanket and the early road are very different .
+the tree was shallow , but the jar was deep .
+the weak jar and the strong cup are very different .
+in the morning the street was cool ; by night it was warm .
+in the morning the car was deep ; by night it was shallow .
+in the morning the river was noisy ; by night it was quiet .
+this house is tall and that tea is short .
+if something is not fast , it may be slow .
+one hall felt young while the other hall felt old .
+she wanted the rough stone , not the smooth stone .
+the room was hard , but the stone was soft .
+the slow bag and the fast cup are very different .
+the hall was rich , but the river was poor .
+one basket felt thin while the other basket felt thick .
+she wanted the happy hall , not the sad hall .
+this jar is early and that bag is late .
+she wanted the heavy stone , not the light stone .
+she wanted the deep jar , not the shallow jar .
+she wanted the strong stone , not the weak stone .
+this car is dim and that tea is bright .
+in the morning the soup was dim ; by night it was bright .
+one street felt sour while the other street felt sweet .
+in the morning the room was full ; by night it was empty .
+the street was smooth , but the soup was rough .
+she wanted the smooth cup , not the rough cup .
+the jar was wet , but the road was dry .
+the opposite of old is young .
+the tree was happy , but the rope was sad .
+this river is clean and that bag is dirty .
+this hall is happy and that street is sad .
+the box was shallow , but the rope was deep .
+one road felt cool while the other road felt warm .
+in the morning the tea was full ; by night it was empty .
+warm and cool are opposites .
+this house is light and that bottle is heavy .
+the high house and the low soup are very different .
+one hall felt high while the other hall felt low .
+in the morning the blanket was dirty ; by night it was clean .
+this cup is quiet and that car is noisy .
+the thin blanket and the thick street are very different .
+the thick car and the thin bottle are very different .
+the bag was thin , but the street was thick .
+the cool tea and the warm cup are very different .
+she wanted the fast road , not the slow road .
+the soft basket and the hard river are very different .
+the opposite of low is high .
+in the morning the cup was smooth ; by night it was rough .
+in the morning the river was square ; by night it was round .
+the old tea and the young room are very different .
+the round basket and the square cup are very different .
+this blanket is hard and that house is soft .
+the soft stone and the loud bread are very different .
+the quiet soup and the noisy hall are very different .
+the heavy bottle and the light room are very different .
+in the morning the room was deep ; by night it was shallow .
+the opposite of weak is strong .
+this bag is noisy and that jar is quiet .
+this house is slow and that tree is fast .
+early and late are opposites .
+the strong rope and the weak box are very different .
+the hot rope and the cold tree are very different .
+in the morning the soup was slow ; by night it was fast .
+the thin cup and the thick river are very different .
+this bread is thick and that box is thin .
+the soft bread and the loud soup are very different .
+one box felt rich while the other box felt poor .
+the low bottle and the high box are very different .
+this rope is deep and that bag is shallow .
+one hall felt heavy while the other hall felt light .
+this stone is hot and that bottle is cold .
+in the morning the soup was hot ; by night it was cold .
+the early jar and the late road are very different .
+in the morning the bag was tall ; by night it was short .
+the dim box and the bright stone are very different .
+one bottle felt clean while the other bottle felt dirty .
+this street is hard and that cup is soft .
+she wanted the bright jar , not the dim jar .
+this rope is bright and that blanket is dim .
+this road is soft and that house is hard .
+the stone was rough , but the street was smooth .
+this cup is shallow and that bottle is deep .
+this bag is soft and that bread is loud .
+one rope felt hot while the other rope felt cold .
+one street felt thin while the other street felt thick .
+the basket was sour , but the bag was sweet .
+in the morning the car was quiet ; by night it was noisy .
+the deep cup and the shallow hall are very different .
+in the morning the bread was full ; by night it was empty .
+bright and dim are opposites .
+the tea was loud , but the jar was soft .
+this jar is cool and that stone is warm .
+one tea felt cold while the other tea felt hot .
+in the morning the bread was high ; by night it was low .
+this soup is rough and that bag is smooth .
+this hall is empty and that cup is full .
+the river was big , but the bottle was small .
+this rope is light and that street is heavy .
+if something is not bright , it may be dim .
+one soup felt strong while the other soup felt weak .
+this river is warm and that box is cool .
+this blanket is clean and that bottle is dirty .
+she wanted the weak jar , not the strong jar .
+the sad hall and the happy jar are very different .
+the happy hall and the sad street are very different .
+in the morning the street was thick ; by night it was thin .
+one bag felt wet while the other bag felt dry .
+the short tea and the tall box are very different .
+the dirty hall and the clean cup are very different .
+the dim car and the bright blanket are very different .
+the strong bag and the weak road are very different .
+one street felt thick while the other street felt thin .
+the strong soup and the weak tea are very different .
+this bread is weak and that car is strong .
+one bread felt slow while the other bread felt fast .
+this tea is old and that jar is young .
+in the morning the cup was sad ; by night it was happy .
+the road was deep , but the tree was shallow .
+in the morning the jar was quiet ; by night it was noisy .
+the bright bag and the dim jar are very different .
+the stone was old , but the basket was young .
+the rope was deep , but the river was shallow .
+the road was round , but the blanket was square .
+the cool road and the warm soup are very different .
+the bright hall and the dim bread are very different .
+one jar felt short while the other jar felt tall .
+in the morning the tea was sweet ; by night it was sour .
+the rope was sweet , but the car was sour .
+in the morning the rope was soft ; by night it was hard .
+in the morning the soup was rich ; by night it was poor .
+she wanted the weak rope , not the strong rope .
+this bag is sweet and that car is sour .
+one river felt round while the other river felt square .
+this stone is soft and that box is hard .
+if something is not happy , it may be sad .
+this basket is wet and that tree is dry .
+the stone was smooth , but the road was rough .
+the fast rope and the slow river are very different .
+the cup was old , but the house was young .
+the poor tea and the rich house are very different .
+the soup was round , but the hall was square .
+this room is light and that cup is heavy .
+she wanted the old hall , not the young hall .
+in the morning the river was clean ; by night it was dirty .
+the noisy street and the quiet car are very different .
+the road was tall , but the rope was short .
+this tree is high and that stone is low .
+in the morning the car was cold ; by night it was hot .
+the cup was tall , but the jar was short .
+in the morning the room was early ; by night it was late .
+if something is not old , it may be young .
+in the morning the bottle was low ; by night it was high .
+she wanted the warm car , not the cool car .
+this bread is old and that cup is young .
+the rope was deep , but the house was shallow .
+this road is loud and that stone is soft .
+this stone is dim and that bread is bright .
+this basket is slow and that hall is fast .
+one bag felt heavy while the other bag felt light .
+in the morning the tree was warm ; by night it was cool .
+this tree is sour and that room is sweet .
+one box felt early while the other box felt late .
+she wanted the wet hall , not the dry hall .
+the bread was soft , but the soup was loud .
+the jar was small , but the road was big .
+she wanted the dirty bag , not the clean bag .
+one house felt early while the other house felt late .
+in the morning the basket was light ; by night it was heavy .
+the tall room and the short bread are very different .
+this car is full and that basket is empty .
+this blanket is big and that hall is small .
+one road felt low while the other road felt high .
+soft and hard are opposites .
+the hot bag and the cold rope are very different .
+one tree felt cold while the other tree felt hot .
+the rich bottle and the poor room are very different .
+the loud soup and the soft room are very different .
+this tree is strong and that soup is weak .
+in the morning the tree was bright ; by night it was dim .
+the dry stone and the wet hall are very different .
+she wanted the low stone , not the high stone .
+she wanted the round tree , not the square tree .
+in the morning the road was sad ; by night it was happy .
+the full river and the empty rope are very different .
+the dirty box and the clean cup are very different .
+she wanted the square street , not the round street .
+one bottle felt high while the other bottle felt low .
+in the morning the soup was warm ; by night it was cool .
+she wanted the shallow soup , not the deep soup .
+in the morning the soup was early ; by night it was late .
+this box is poor and that stone is rich .
+in the morning the bottle was square ; by night it was round .
+the bottle was strong , but the box was weak .
+this basket is full and that car is empty .
+the young tree and the old bottle are very different .
+one car felt soft while the other car felt hard .
+this tea is slow and that hall is fast .
+in the morning the soup was shallow ; by night it was deep .
+she wanted the hot bag , not the cold bag .
+she wanted the soft basket , not the loud basket .
+she wanted the loud room , not the soft room .
+the square cup and the round house are very different .
+the rich street and the poor tea are very different .
+one box felt square while the other box felt round .
+the soup was weak , but the bread was strong .
+she wanted the soft bottle , not the hard bottle .
+the poor bottle and the rich box are very different .
+she wanted the bright room , not the dim room .
+this hall is loud and that basket is soft .
+this car is high and that cup is low .
+the stone was wet , but the basket was dry .
+if something is not thick , it may be thin .
+the bottle was light , but the street was heavy .
+one river felt square while the other river felt round .
+this stone is thick and that room is thin .
+in the morning the house was slow ; by night it was fast .
+in the morning the bag was poor ; by night it was rich .
+the smooth river and the rough car are very different .
+in the morning the basket was smooth ; by night it was rough .
+she wanted the happy road , not the sad road .
+this basket is fast and that street is slow .
+the quiet bottle and the noisy stone are very different .
+one jar felt wet while the other jar felt dry .
+this stone is soft and that room is loud .
+one jar felt dry while the other jar felt wet .
+this river is cold and that rope is hot .
+wet and dry are opposites .
+the bread was warm , but the soup was cool .
+in the morning the bag was rich ; by night it was poor .
+the jar was happy , but the hall was sad .
+this tea is deep and that room is shallow .
+one house felt short while the other house felt tall .
+this street is late and that road is early .
+this stone is clean and that road is dirty .
+this tree is sweet and that road is sour .
+in the morning the stone was smooth ; by night it was rough .
+one hall felt strong while the other hall felt weak .
+the soft box and the hard bread are very different .
+this rope is noisy and that car is quiet .
+one hall felt thick while the other hall felt thin .
+the cold tea and the hot blanket are very different .
+the soft river and the loud car are very different .
+this blanket is hot and that hall is cold .
+the weak cup and the strong blanket are very different .
+the cold rope and the hot river are very different .
+the box was square , but the house was round .
+this room is small and that tree is big .
+the room was empty , but the stone was full .
+the early bottle and the late bread are very different .
+the stone was young , but the rope was old .
+in the morning the river was cool ; by night it was warm .
+one tree felt deep while the other tree felt shallow .
+the tall tree and the short basket are very different .
+she wanted the quiet river , not the noisy river .
+the low road and the high hall are very different .
+she wanted the tall box , not the short box .
+in the morning the cup was sour ; by night it was sweet .
+the thick blanket and the thin road are very different .
+one soup felt poor while the other soup felt rich .
+the blanket was dry , but the tea was wet .
+the rope was soft , but the bread was hard .
+the house was dirty , but the rope was clean .
+tall and short are opposites .
+this rope is light and that tree is heavy .
+this tree is hot and that bottle is cold .
+the rope was cool , but the box was warm .
+in the morning the room was round ; by night it was square .
+this bread is empty and that tea is full .
+this road is empty and that street is full .
+this street is rough and that car is smooth .
+in the morning the house was soft ; by night it was loud .
+she wanted the thick soup , not the thin soup .
+the box was fast , but the room was slow .
+she wanted the cold box , not the hot box .
+the heavy soup and the light street are very different .
+in the morning the bottle was small ; by night it was big .
+one car felt empty while the other car felt full .
+one soup felt deep while the other soup felt shallow .
+in the morning the bottle was thin ; by night it was thick .
+this bottle is low and that car is high .
+the old jar and the young room are very different .
+the room was loud , but the stone was soft .
+she wanted the dry car , not the wet car .
+one road felt happy while the other road felt sad .
+the opposite of wet is dry .
+one rope felt early while the other rope felt late .
+one stone felt empty while the other stone felt full .
+the river was light , but the soup was heavy .
+the low cup and the high stone are very different .
+she wanted the rich bottle , not the poor bottle .
+she wanted the sad stone , not the happy stone .
+the sour river and the sweet bottle are very different .
+she wanted the full room , not the empty room .
+one soup felt empty while the other soup felt full .
+the fast hall and the slow bread are very different .
+in the morning the stone was hot ; by night it was cold .
+the deep tree and the shallow car are very different .
+the opposite of big is small .
+in the morning the bread was smooth ; by night it was rough .
+in the morning the box was heavy ; by night it was light .
+the round cup and the square tea are very different .
+the opposite of thin is thick .
+the rope was square , but the river was round .
+the car was late , but the street was early .
+in the morning the hall was quiet ; by night it was noisy .
+the heavy house and the light jar are very different .
+this jar is tall and that house is short .
+the car was noisy , but the tree was quiet .
+one bag felt high while the other bag felt low .
+the sour cup and the sweet rope are very different .
+the cool tree and the warm house are very different .
+heavy and light are opposites .
+one rope felt full while the other rope felt empty .
+she wanted the poor basket , not the rich basket .
+in the morning the tea was fast ; by night it was slow .
+in the morning the river was deep ; by night it was shallow .
+the jar was noisy , but the hall was quiet .
+this basket is cold and that bottle is hot .
+in the morning the basket was tall ; by night it was short .
+this house is thin and that street is thick .
+in the morning the road was cool ; by night it was warm .
+the river was wet , but the blanket was dry .
+the tree was light , but the stone was heavy .
+this stone is tall and that cup is short .
+in the morning the rope was happy ; by night it was sad .
+she wanted the late bread , not the early bread .
+one soup felt dry while the other soup felt wet .
+this room is sad and that road is happy .
+the slow cup and the fast jar are very different .
+she wanted the deep basket , not the shallow basket .
+the hot jar and the cold street are very different .
+the short jar and the tall bread are very different .
+the short bag and the tall cup are very different .
+in the morning the jar was high ; by night it was low .
+this rope is dim and that blanket is bright .
+this tea is bright and that room is dim .
+the smooth cup and the rough hall are very different .
+she wanted the wet house , not the dry house .
+this basket is round and that box is square .
+this basket is short and that river is tall .
+the street was soft , but the soup was hard .
+in the morning the tree was poor ; by night it was rich .
+she wanted the empty river , not the full river .
+she wanted the weak cup , not the strong cup .
+the street was thick , but the blanket was thin .
+this cup is weak and that soup is strong .
+in the morning the box was noisy ; by night it was quiet .
+she wanted the dry soup , not the wet soup .
+in the morning the tea was rough ; by night it was smooth .
+the hard soup and the soft blanket are very different .
+one street felt slow while the other street felt fast .
+this house is poor and that car is rich .
+the thin road and the thick hall are very different .
+one rope felt weak while the other rope felt strong .
+one blanket felt slow while the other blanket felt fast .
+in the morning the tree was soft ; by night it was hard .
+the tree was thick , but the bottle was thin .
+she wanted the deep cup , not the shallow cup .
+this bread is strong and that jar is weak .
+the road was weak , but the stone was strong .
+one room felt hot while the other room felt cold .
+the basket was weak , but the tree was strong .
+the box was strong , but the rope was weak .
+the room was low , but the bread was high .
+one street felt heavy while the other street felt light .
+the thick house and the thin street are very different .
+the room was big , but the tea was small .
+happy and sad are opposites .
+the heavy bag and the light basket are very different .
+in the morning the jar was full ; by night it was empty .
+the bottle was dry , but the road was wet .
+in the morning the jar was fast ; by night it was slow .
+the warm stone and the cool house are very different .
+she wanted the sad box , not the happy box .
+one room felt early while the other room felt late .
+in the morning the tree was thick ; by night it was thin .
+she wanted the fast bag , not the slow bag .
+the thick tree and the thin cup are very different .
+the bottle was early , but the car was late .
+the late box and the early blanket are very different .
+this car is sour and that cup is sweet .
+this street is fast and that tea is slow .
+one basket felt cool while the other basket felt warm .
+this bottle is early and that car is late .
+one hall felt empty while the other hall felt full .
+she wanted the small car , not the big car .
+she wanted the round soup , not the square soup .
+the hard hall and the soft rope are very different .
+the bag was round , but the house was square .
+the basket was high , but the bread was low .
+she wanted the shallow box , not the deep box .
+this soup is hard and that blanket is soft .
+this rope is happy and that room is sad .
+the bag was strong , but the car was weak .
+the basket was young , but the box was old .
+this road is cool and that bread is warm .
+in the morning the street was strong ; by night it was weak .
+this bag is cold and that cup is hot .
+this cup is weak and that rope is strong .
+the stone was bright , but the house was dim .
+this bread is bright and that stone is dim .
+one cup felt cold while the other cup felt hot .
+the street was quiet , but the box was noisy .
+one bread felt cool while the other bread felt warm .
+she wanted the hot hall , not the cold hall .
+in the morning the stone was light ; by night it was heavy .
+this bottle is big and that river is small .
+the bottle was dry , but the basket was wet .
+the tree was shallow , but the room was deep .
+the shallow room and the deep road are very different .
+this house is old and that car is young .
+in the morning the rope was sad ; by night it was happy .
+the opposite of sad is happy .
+in the morning the jar was warm ; by night it was cool .
+one tea felt dirty while the other tea felt clean .
+she wanted the clean bread , not the dirty bread .
+she wanted the sour bag , not the sweet bag .
+the shallow jar and the deep bread are very different .
+she wanted the smooth street , not the rough street .
+she wanted the high stone , not the low stone .
+the river was dim , but the bag was bright .
+this bag is square and that bread is round .
+the noisy bag and the quiet street are very different .
+in the morning the bread was thick ; by night it was thin .
+if something is not sweet , it may be sour .
+this river is slow and that stone is fast .
+the clean bag and the dirty blanket are very different .
+she wanted the big car , not the small car .
+in the morning the tea was dirty ; by night it was clean .
+the sour tea and the sweet soup are very different .
+she wanted the empty tree , not the full tree .
+this street is poor and that stone is rich .
+the low bread and the high road are very different .
+the bag was tall , but the bottle was short .
+this box is dry and that hall is wet .
+she wanted the square bottle , not the round bottle .
+the bag was late , but the river was early .
+she wanted the deep soup , not the shallow soup .
+in the morning the river was round ; by night it was square .
+this house is late and that stone is early .
+the blanket was wet , but the car was dry .
+the thin bread and the thick room are very different .
+the poor river and the rich tea are very different .
+the tea was deep , but the soup was shallow .
+the dim road and the bright street are very different .
+the old bread and the young room are very different .
+this house is soft and that hall is loud .
+she wanted the dirty car , not the clean car .
+one blanket felt smooth while the other blanket felt rough .
+in the morning the car was dirty ; by night it was clean .
+she wanted the loud hall , not the soft hall .
+this road is rich and that car is poor .
+one box felt dim while the other box felt bright .
+the stone was poor , but the soup was rich .
+the blanket was dirty , but the stone was clean .
+the hard stone and the soft blanket are very different .
+the clean car and the dirty house are very different .
+the soup was heavy , but the bottle was light .
+one river felt light while the other river felt heavy .
+in the morning the stone was tall ; by night it was short .
+she wanted the clean house , not the dirty house .
+the dirty soup and the clean box are very different .
+this rope is short and that box is tall .
+she wanted the young bag , not the old bag .
+she wanted the noisy basket , not the quiet basket .
+the bag was smooth , but the street was rough .
+she wanted the sour river , not the sweet river .
+she wanted the big hall , not the small hall .
+the warm stone and the cool box are very different .
+in the morning the stone was cool ; by night it was warm .
+the basket was weak , but the room was strong .
+the bread was thin , but the room was thick .
+she wanted the noisy soup , not the quiet soup .
+the soup was clean , but the street was dirty .
+one jar felt hot while the other jar felt cold .

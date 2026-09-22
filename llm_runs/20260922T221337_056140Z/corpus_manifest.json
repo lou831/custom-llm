@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "grammar_practice.txt",
+      "bytes": 126457,
+      "sha256": "9d454a767c79105738de25929378af92d1220cf27df2380867ff56c6f82beddc",
+      "warnings": [],
+      "characters": 126457,
+      "passages": 3392,
+      "unique_passages": 3392,
+      "preview": "two cats were small last night .\nlast week one child called a friend .\ntomorrow the girls will climb the hill .\nlast week the boy traveled to the city .\nright now two cats are talking with a friend .\nevery day the old man talks with a friend .\na bird cooked in the kitchen yesterday .\ntomorrow they w"
+    },
+    {
+      "file": "opposites_practice.txt",
+      "bytes": 84805,
+      "sha256": "6185b22a06f416cd23f06a29afd917683c700af1c9eb08939023923b1f5bc67a",
+      "warnings": [],
+      "characters": 84805,
+      "passages": 1707,
+      "unique_passages": 1707,
+      "preview": "she wanted the smooth box , not the rough box .\nthe box was soft , but the car was loud .\nthe car was heavy , but the cup was light .\none bread felt bright while the other bread felt dim .\nthis bottle is smooth and that rope is rough .\nthe young stone and the old street are very different .\none rope"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 5099,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 9691,
+  "new_unique_passages": 5099,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

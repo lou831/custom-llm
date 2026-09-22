@@ -1,11 +1,8 @@
 __pycache__/
 .ipynb_checkpoints/
 .venv/
-/llm_runs/
 names.txt
 .DS_Store
-/corpus/*
-!/corpus/README.md
-
-/results/
+# Results ZIPs duplicate the run folders; keep them locally.
+/llm_runs/*.zip
 /chat_transcript.json
