@@ -11,21 +11,21 @@ original README is kept as [COURSE_README.md](COURSE_README.md).
 
 | | Starter experiment | Expanded experiment |
 |---|---|---|
-| Run folder | [`llm_runs/20260922T220917_902098Z`](llm_runs/20260922T220917_902098Z) | [`llm_runs/20260922T221337_056140Z`](llm_runs/20260922T221337_056140Z) |
+| Run folder | [`llm_runs/20260922T220917_902098Z`](llm_runs/20260922T220917_902098Z) | [`llm_runs/20260922T232248_644367Z`](llm_runs/20260922T232248_644367Z) |
 | Executed notebook | [starter_run.executed.ipynb](starter_run.executed.ipynb) | [extended_run.executed.ipynb](extended_run.executed.ipynb) |
 | Corpus | classroom sentences only | classroom + [corpus/](corpus/) (2 files) |
 | Training steps / learning rate | 3,000 / 0.001 | 3,000 / 0.001 |
-| Vocabulary | 136 tokens | 333 tokens |
-| Unique passages (after removing duplicates) | 4,592 (1,608 duplicates removed) | 9,691 (5,099 new from my files) |
-| Train / validation passages (90/10) | 4,132 / 460 | 8,721 / 970 |
-| Parameters | 111,872 | 124,480 |
-| Training time (CPU, Apple silicon Mac) | 15.7 s | 17.3 s |
-| Model hash (final) | `bf49f05b…` | `9857856d…` |
-| Run files | [config](llm_runs/20260922T220917_902098Z/config.json) · [training.csv](llm_runs/20260922T220917_902098Z/training.csv) · [training_summary](llm_runs/20260922T220917_902098Z/training_summary.json) · [corpus_manifest](llm_runs/20260922T220917_902098Z/corpus_manifest.json) · [tokenization](llm_runs/20260922T220917_902098Z/tokenization.json) · [inspection](llm_runs/20260922T220917_902098Z/inspection.json) | [config](llm_runs/20260922T221337_056140Z/config.json) · [training.csv](llm_runs/20260922T221337_056140Z/training.csv) · [training_summary](llm_runs/20260922T221337_056140Z/training_summary.json) · [corpus_manifest](llm_runs/20260922T221337_056140Z/corpus_manifest.json) · [tokenization](llm_runs/20260922T221337_056140Z/tokenization.json) · [inspection](llm_runs/20260922T221337_056140Z/inspection.json) |
+| Vocabulary | 136 tokens | 336 tokens |
+| Unique passages (after removing duplicates) | 4,592 (1,608 duplicates removed) | 9,545 (4,953 new from my files) |
+| Train / validation passages (90/10) | 4,132 / 460 | 8,590 / 955 |
+| Parameters | 111,872 | 124,672 |
+| Training time (CPU, Apple silicon Mac) | 15.7 s | 14.4 s |
+| Model hash (final) | `bf49f05b…` | `11434360…` |
+| Run files | [config](llm_runs/20260922T220917_902098Z/config.json) · [training.csv](llm_runs/20260922T220917_902098Z/training.csv) · [training_summary](llm_runs/20260922T220917_902098Z/training_summary.json) · [corpus_manifest](llm_runs/20260922T220917_902098Z/corpus_manifest.json) · [tokenization](llm_runs/20260922T220917_902098Z/tokenization.json) · [inspection](llm_runs/20260922T220917_902098Z/inspection.json) | [config](llm_runs/20260922T232248_644367Z/config.json) · [training.csv](llm_runs/20260922T232248_644367Z/training.csv) · [training_summary](llm_runs/20260922T232248_644367Z/training_summary.json) · [corpus_manifest](llm_runs/20260922T232248_644367Z/corpus_manifest.json) · [tokenization](llm_runs/20260922T232248_644367Z/tokenization.json) · [inspection](llm_runs/20260922T232248_644367Z/inspection.json) |
 
 Neither run was interrupted. Unknown-token rate was 0.00% for training and held-out
 text in both runs ([starter vocabulary report](llm_runs/20260922T220917_902098Z/vocabulary_report.json),
-[expanded vocabulary report](llm_runs/20260922T221337_056140Z/vocabulary_report.json)). Both vocabularies are far below the 509-type
+[expanded vocabulary report](llm_runs/20260922T232248_644367Z/vocabulary_report.json)). Both vocabularies are far below the 509-type
 limit, so no training word was dropped. Unknown words only appear in the **eval prompts**.
 
 ## My choices and prediction
@@ -67,11 +67,11 @@ contained an eval prompt were removed **before** the split and vocabulary were b
 
 **Expanded:** I added two text files that I generated with
 [extension_corpus/make_extension_corpus.py](extension_corpus/make_extension_corpus.py)
-([corpus manifest](llm_runs/20260922T221337_056140Z/corpus_manifest.json)):
+([corpus manifest](llm_runs/20260922T232248_644367Z/corpus_manifest.json)):
 
 | File | Passages | What it teaches |
 |---|---|---|
-| [corpus/grammar_practice.txt](corpus/grammar_practice.txt) | 3,392 | is/are/am and was/were agreement with many singular and plural subjects. Tense contrasts: *every day … walks*, *right now … is walking*, *yesterday … walked*, *tomorrow … will walk*. 12 different verbs. |
+| [corpus/grammar_practice.txt](corpus/grammar_practice.txt) | 3,246 | is/are/am and was/were agreement with many singular and plural subjects. "bird" and "dogs" appear only in neutral sentences, e.g. *"we saw a bird near the river ."* Tense contrasts: *every day … walks*, *right now … is walking*, *yesterday … walked*, *tomorrow … will walk*. 12 different verbs. |
 | [corpus/opposites_practice.txt](corpus/opposites_practice.txt) | 1,707 | The frame *"the opposite of X is Y"* with 20 **untested** pairs (big/small, early/late, …). Contrast sentences for all pairs, e.g. *"the soup was hot , but the lemonade was cold ."* |
 
 **Why these two categories:** in the starter run, all 24 extension tests were unscorable.
@@ -93,6 +93,11 @@ and I inspected the generated files directly.
   `yesterday she`. I removed "she" from that template. She still appears with past
   tense elsewhere, e.g. *"she walked to the park yesterday ."*
 - The exact test openings `one bird`, `the dogs` and `yesterday she` never appear.
+- **Rule added after my first expanded run:** no extension test's last content word is
+  ever directly followed by its answer. My first version had "a bird **is** …" (22×),
+  "two dogs **are** …" (22×) and "she **walked** …" (2×). Those weren't the test items, but
+  they were too close. I removed them and retrained. See
+  [Superseded first expanded run](#superseded-first-expanded-run).
 - **Stricter rule:** the three tested pairs (hot/cold, empty/full, noisy/quiet) never
   share a sentence with the word *opposite*. The generator asserts this. They only appear
   in contrast sentences, so the "opposite of" frame had to transfer from other pairs.
@@ -112,16 +117,16 @@ so it tests new combinations **within these templates**, not unseen writing styl
 ### Loss
 
 These are fixed evaluation panels, **at most 20 training and 20 validation passages each**
-([starter history.json](llm_runs/20260922T220917_902098Z/history.json), [expanded history.json](llm_runs/20260922T221337_056140Z/history.json)).
+([starter history.json](llm_runs/20260922T220917_902098Z/history.json), [expanded history.json](llm_runs/20260922T232248_644367Z/history.json)).
 
 | Experiment | Step | Training loss | Validation loss |
 |---|---:|---:|---:|
 | Starter | 0 | 4.9263 | 4.9275 |
 | Starter | 1,500 | 0.6821 | 0.7182 |
 | Starter | 3,000 | 0.6783 | 0.7061 |
-| Expanded | 0 | 5.8038 | 5.7983 |
-| Expanded | 1,500 | 0.9753 | 0.9264 |
-| Expanded | 3,000 | 0.9517 | 0.9255 |
+| Expanded | 0 | 5.8607 | 5.8377 |
+| Expanded | 1,500 | 0.9113 | 0.9889 |
+| Expanded | 3,000 | 0.8723 | 0.9546 |
 
 Starter:
 
@@ -129,11 +134,11 @@ Starter:
 
 Expanded:
 
-![Expanded training curves](llm_runs/20260922T221337_056140Z/training_curves.svg)
+![Expanded training curves](llm_runs/20260922T232248_644367Z/training_curves.svg)
 
 **What the loss shows:**
 - **Step 0:** the untrained loss equals ln(vocabulary size), which is what even guessing
-  scores: ln 136 ≈ 4.91 and ln 333 ≈ 5.81.
+  scores: ln 136 ≈ 4.91 and ln 336 ≈ 5.82.
 - **Plateau:** both runs had flattened by step 1,500.
 - **No cross-run comparison:** the expanded run's higher loss does **not** mean it's a worse
   model. Its validation set contains different, more varied sentences, and it chooses among
@@ -149,22 +154,25 @@ Starter ([step 0](llm_runs/20260922T220917_902098Z/samples/step_0000.txt), [step
 - Step 1,500: `our school has a question about the new educator and lesson .`
 - Step 3,000: `the consumer compared the offering after checking the price .`
 
-Expanded ([step 0](llm_runs/20260922T221337_056140Z/samples/step_0000.txt), [step 1500](llm_runs/20260922T221337_056140Z/samples/step_1500.txt), [step 3000](llm_runs/20260922T221337_056140Z/samples/step_3000.txt)):
+Expanded ([step 0](llm_runs/20260922T232248_644367Z/samples/step_0000.txt), [step 1500](llm_runs/20260922T232248_644367Z/samples/step_1500.txt), [step 3000](llm_runs/20260922T232248_644367Z/samples/step_3000.txt)):
 
-- Step 0: `review hall client sleepy car girls bird home visited discussion mango …`
-- Step 1,500: `in the morning the rope was wet ; by night it was dry .`
-- Step 3,000: `yesterday a dog washed the cup .`
+- Step 0: `return full children bottle bright man a fed brand climbing washing surgeon …`
+- Step 1,500: `the opposite of hard is soft .` · `right now lily is calling a friend .`
+- Step 3,000: `one child is happy .` · `the new car was mentioned in the traffic report yesterday .`
 
 The visible change happens by step 1,500: random words become complete template sentences.
 Between 1,500 and 3,000 the starter samples barely change (the first two lines are
 identical), which matches the flat loss.
 
-### Temperature ([starter](llm_runs/20260922T220917_902098Z/temperature_comparison.json), [expanded](llm_runs/20260922T221337_056140Z/temperature_comparison.json))
+### Temperature ([starter](llm_runs/20260922T220917_902098Z/temperature_comparison.json), [expanded](llm_runs/20260922T232248_644367Z/temperature_comparison.json))
 
-In **both** runs, the samples at 0.8 and 1.2 were identical, word for word. At 0.3, the
-starter run changed 2 of 4 sentences and the expanded run changed 3 of 4. My interpretation,
-not tested: the model is so confident about its templates that making sampling more random
-still picked the same words with this seed. Temperature changes sampling only. No weights
+- **Starter run:** the samples at 0.8 and 1.2 were identical, word for word, and 0.3 changed
+  2 of 4 sentences. My interpretation, not tested: this model is so confident about its few
+  templates that making sampling more random still picked the same words with this seed.
+- **Expanded run:** all three temperatures differed. At 0.3, three of four samples used the
+  most common classroom template (*"the new … was mentioned in the … report yesterday ."*).
+  At 1.2, the samples mixed in more grammar sentences (*"three horses were at home last
+  night ."*, *"every day many birds call a friend ."*). Temperature changes sampling only. No weights
 change during generation.
 
 ### One word through the model ([tokenization.json](llm_runs/20260922T220917_902098Z/tokenization.json), [inspection.json](llm_runs/20260922T220917_902098Z/inspection.json), starter run)
@@ -198,8 +206,8 @@ change during generation.
   and the 48-case suite and its scoring. Also fixed: the sample and eval generation settings
   (temperature 0.8, fixed seeds, 24-token limit).
 - **Changed between runs:** only the training text (my two files in `corpus/`). This also
-  changed the vocabulary (136 → 333), the random starting weights, and the validation passages.
-- **Changed by training:** all 111,872 (starter) or 124,480 (expanded) weights, including every
+  changed the vocabulary (136 → 336), the random starting weights, and the validation passages.
+- **Changed by training:** all 111,872 (starter) or 124,672 (expanded) weights, including every
   embedding vector.
 - **Changed only at inference:** temperature (0.3 / 0.8 / 1.2) and chat prompts. These
   reshape sampling from the same saved model; no weights change. The eval runner and chat
@@ -213,21 +221,21 @@ Suite: [evals/language_evals.json](evals/language_evals.json) (unchanged, 48 cas
 |---|---|---|---|---|---|
 | Starter corpus | Untrained | 9 (18.8%) | 24 | 37.5% | [csv](llm_runs/20260922T220917_902098Z/language_evals/untrained/eval_results.csv) · [summary](llm_runs/20260922T220917_902098Z/language_evals/untrained/eval_summary.json) |
 | Starter corpus | Trained | 20 (41.7%) | 24 | 83.3% | [csv](llm_runs/20260922T220917_902098Z/language_evals/final/eval_results.csv) · [summary](llm_runs/20260922T220917_902098Z/language_evals/final/eval_summary.json) |
-| Expanded corpus | Untrained | 8 (16.7%) | 30 | 26.7% | [csv](llm_runs/20260922T221337_056140Z/language_evals/untrained/eval_results.csv) · [summary](llm_runs/20260922T221337_056140Z/language_evals/untrained/eval_summary.json) |
-| Expanded corpus | Trained | **30 (62.5%)** | 30 | **100%** | [csv](llm_runs/20260922T221337_056140Z/language_evals/final/eval_results.csv) · [summary](llm_runs/20260922T221337_056140Z/language_evals/final/eval_summary.json) |
+| Expanded corpus | Untrained | 11 (22.9%) | 30 | 36.7% | [csv](llm_runs/20260922T232248_644367Z/language_evals/untrained/eval_results.csv) · [summary](llm_runs/20260922T232248_644367Z/language_evals/untrained/eval_summary.json) |
+| Expanded corpus | Trained | **29 (60.4%)** | 30 | **96.7%** | [csv](llm_runs/20260922T232248_644367Z/language_evals/final/eval_results.csv) · [summary](llm_runs/20260922T232248_644367Z/language_evals/final/eval_summary.json) |
 
-Comparisons: [starter](llm_runs/20260922T220917_902098Z/language_eval_comparison.json) · [expanded](llm_runs/20260922T221337_056140Z/language_eval_comparison.json).
-Separation: [starter](llm_runs/20260922T220917_902098Z/eval_separation.json) · [expanded](llm_runs/20260922T221337_056140Z/eval_separation.json).
+Comparisons: [starter](llm_runs/20260922T220917_902098Z/language_eval_comparison.json) · [expanded](llm_runs/20260922T232248_644367Z/language_eval_comparison.json).
+Separation: [starter](llm_runs/20260922T220917_902098Z/eval_separation.json) · [expanded](llm_runs/20260922T232248_644367Z/eval_separation.json).
 
 **By category** (correct / 3 or 8; *u* = unscorable because of unknown words):
 
 | Category | Starter untrained | Starter trained | Expanded untrained | Expanded trained |
 |---|---|---|---|---|
-| domain_context (8) | 3 | 8 | 3 | 8 |
-| domain_place (8) | 3 | 8 | 3 | 8 |
-| new_wording (8) | 3 | 4 | 1 | 8 |
-| **grammar** (3) | 0 u | 0 u | 0 | **3** |
-| **opposites** (3) | 0 u | 0 u | 1 | **3** |
+| domain_context (8) | 3 | 8 | 2 | 8 |
+| domain_place (8) | 3 | 8 | 2 | 8 |
+| new_wording (8) | 3 | 4 | 4 | 8 |
+| **grammar** (3) | 0 u | 0 u | 1 | **2** |
+| **opposites** (3) | 0 u | 0 u | 2 | **3** |
 | negation, reference, sequence, spatial_relations, everyday_knowledge, categories_and_analogies (3 each) | 0 u | 0 u | 0 u | 0 u |
 
 ### Three different measurements
@@ -245,17 +253,25 @@ Separation: [starter](llm_runs/20260922T220917_902098Z/eval_separation.json) · 
 
 ### What changed, and why
 
-- **Grammar and opposites: 0/6 → 6/6.** The first reason is **coverage**: all six cases
-  became scorable. The second is **learned patterns**:
-  - Opposites were confident: `cold` 0.90, `full` 0.89, `quiet` 0.90, even though the
+- **Grammar and opposites: 0/6 → 5/6.** The first reason is **coverage**: all six cases
+  became scorable. The second is **learned patterns**, which were strong for opposites and
+  weak for grammar:
+  - Opposites were confident: `cold` 0.91, `full` 0.91, `quiet` 0.86, even though the
     tested pairs were never next to "opposite".
-  - Grammar was weaker: `is` 0.35, `are` 0.40, and `walked` only 0.07. After "yesterday
-    she" the model preferred other past verbs; its free continuation was `climbed the hill .`
+  - **Grammar failure:** after "one bird" the model chose `were` (0.11) over `are` (0.08),
+    with `is` at only 0.002. Its free continuation was `were busy last night .` It did not
+    learn that "one" means singular. In my superseded first run, which contained
+    "a bird is …", this case passed with `is` at 0.35. That shows the earlier success came
+    from the specific word pair, not from grammar.
+  - "the dogs" → `are` passed, but barely (0.03). "yesterday she" → `walked` passed at 0.08.
+    The model preferred other past verbs; its free continuation was `climbed the hill .`
     It learned "past tense after yesterday", not "walked" specifically.
-  - One expanded *untrained* opposites case (`quiet`) was correct by chance.
+  - The untrained expanded model got 3 of these 6 right by chance (`are`, `cold`, `full`).
+    That's why I compare trained against untrained results rather than reading one score alone.
 - **New wording: 4/8 → 8/8. I can't fully explain this.** In the starter run all four
   choices had probability of about 0.000, so the model was ranking near-zero numbers, and
-  4/8 was weak evidence. In the expanded run they rose to 0.05–0.22. The new corpus changed
+  4/8 was weak evidence. In the expanded run most rose to 0.04–0.25,
+  though three stayed below 0.01 (route, update, delivery), so part of this may still be luck. The new corpus changed
   the vocabulary, the random starting weights and the data mix all at once, so this
   comparison can't isolate the cause.
 - **18 extension cases are still unscorable** (negation, reference, sequence, spatial,
@@ -266,8 +282,8 @@ Separation: [starter](llm_runs/20260922T220917_902098Z/eval_separation.json) · 
 
 | Prompt | Starter trained (unscorable) | Expanded trained |
 |---|---|---|
-| one bird | `the new customer with another client at the store .` | `is busy .` |
-| the dogs | `the new educator with another educator at the school .` | `are small .` |
+| one bird | `the new customer with another client at the store .` | `were busy last night .` |
+| the dogs | `the new educator with another educator at the school .` | `are calm .` |
 | yesterday she | `the new buyer with another client at the store .` | `climbed the hill .` |
 | the opposite of hot is | *(empty)* | `cold .` |
 | the opposite of empty is | *(empty)* | `full .` |
@@ -275,21 +291,21 @@ Separation: [starter](llm_runs/20260922T220917_902098Z/eval_separation.json) · 
 
 The starter model saw these prompts mostly as `<UNK>` tokens, so it fell back to its shopping
 templates or produced nothing. The expanded model's free text agrees with its four-choice
-selections, except for "yesterday she". There the four-choice test marked `walked` correct,
-but the model freely wrote a different past verb.
+selections. For "one bird" both are wrong (`were`). For "yesterday she" the four-choice test
+marked `walked` correct, but the model freely wrote a different past verb.
 
-**Rerun from the terminal** (these reproduced the notebook's 20/48 and 30/48 exactly;
+**Rerun from the terminal** (these reproduced the notebook's 20/48 and 29/48 exactly;
 outputs in [results/rerun-starter-final](results/rerun-starter-final) and [results/rerun-expanded-final](results/rerun-expanded-final)):
 
 ```sh
 python run_evals.py --model llm_runs/20260922T220917_902098Z/model.pt --output results/rerun-starter-final
-python run_evals.py --model llm_runs/20260922T221337_056140Z/model.pt --output results/rerun-expanded-final
+python run_evals.py --model llm_runs/20260922T232248_644367Z/model.pt --output results/rerun-expanded-final
 ```
 
 ## My chat interface
 
 Terminal interface: [chat.py](chat.py). It uses my trained expanded model
-(`llm_runs/20260922T221337_056140Z/model.pt`, hash `9857856d…`). Each prompt starts fresh,
+(`llm_runs/20260922T232248_644367Z/model.pt`, hash `11434360…`). Each prompt starts fresh,
 with no shared history. Context is 48 tokens, temperature 0.8, at most 24 tokens per reply.
 Unknown prompt words are reported. The model continues text; it does not answer questions.
 
@@ -297,10 +313,11 @@ Setup: `python3 -m venv .venv && source .venv/bin/activate && pip install -r req
 is included in this repository, so there is nothing to download. Then:
 
 ```sh
-python chat.py --model llm_runs/20260922T221337_056140Z/model.pt --transcript results/my_new_chat.json
+python chat.py --model llm_runs/20260922T232248_644367Z/model.pt --transcript results/my_new_chat.json
 ```
 
-Transcript: [results/expanded_chat.json](results/expanded_chat.json) · Screenshot:
+Transcript: [results/expanded_chat.json](results/expanded_chat.json). It records the model path and
+hash `11434360…`, which match the expanded run. The screenshot shows the same session:
 
 ![Terminal chat with my expanded model](results/chat_screenshot.png)
 
@@ -310,12 +327,12 @@ Transcript: [results/expanded_chat.json](results/expanded_chat.json) · Screensh
 | the soup was hot , but the tea was | cold . | The contrast pattern works in a new sentence |
 | the opposite of hungry is | big . | **Failure:** "hungry" was never in an opposite pair, so it made up an adjective |
 | yesterday we | called a friend . | Uses a past-tense verb after "yesterday" |
-| water freezes into | child is happy . | **Failure:** all three words unknown (`<UNK>`), so the reply is noise |
+| water freezes into | of fruit helped us understand the opposite . | **Failure:** all three words unknown (`<UNK>`), so the reply is noise |
 
 The notebook's section 10 also saved one interaction per run with the default prompt
 "the customer":
 - starter model: `selected the item after checking the price .`
-- expanded model: `compared the brand after checking the price .`
+- expanded model: `compared the offering after checking the price .`
 
 ## What I learned
 
@@ -343,7 +360,7 @@ The notebook's section 10 also saved one interaction per run with the default pr
 4. **Attention:** attention uses percentages to decide how much information to take from
    each earlier word. In my starter model, "customer" took 49% from the start marker, 42%
    from "the" and 9% from itself (first head, first block). In the expanded run it was
-   8% / 3% / 89%. It can't look at future words, because the next word is the answer it's
+   50% / 50% / 1%. It can't look at future words, because the next word is the answer it's
    trying to predict. Seeing it would be cheating.
 5. **Probabilities → text:** before training the model spreads probability evenly because
    it has learned nothing. After training it matches how often each word actually followed
@@ -356,8 +373,8 @@ The notebook's section 10 also saved one interaction per run with the default pr
 
 ## One limitation and my next experiment
 
-**Limitation:** my model learned *specific pairs*, not the idea of "opposite". It answered
-`the opposite of hungry is` with `big .`, and 18 of 48 tests remain unscorable because their
+**Limitation:** my model learned *specific pairs*, not general rules. It answered
+`the opposite of hungry is` with `big .`, and after "one bird" it chose `were` instead of `is`, and 18 of 48 tests remain unscorable because their
 words never appear in training.
 
 **Next experiment:** add teaching sentences for **negation** and **spatial relations**, and
@@ -365,6 +382,23 @@ first write 10 new test prompts of my own that I never train on. Keep 3,000 step
 learning rate 0.001. My prediction: coverage will rise to about 36/48. Spatial inverses
 (above/below) may work like opposites, but negation will likely fail, because it requires
 tracking which object was *not* chosen, and this model tends to rely on word pairs.
+
+## Superseded first expanded run
+
+My first expanded run ([`llm_runs/20260922T221337_056140Z`](llm_runs/20260922T221337_056140Z),
+[notebook](extended_run_v1_superseded.executed.ipynb)) scored 30/48. After it, I audited
+the exact training text:
+- no eval prompt, prompt + answer, answer-choice list or eval output appeared in it;
+- but the grammar file contained "a bird is …" (22×), "two dogs are …" (22×) and
+  "she walked …" (2×).
+
+These are ordinary grammar sentences, not test items. Still, each put a tested word directly
+before its answer, so I removed them, added the rule to the generator, and retrained with
+identical settings. The result fell to 29/48: "one bird → is" went from correct (0.35) to wrong
+(0.002). I report the tightened run as my expanded experiment and keep the first run only
+for transparency. Its chat evidence is kept as
+[results/v1_superseded_chat.json](results/v1_superseded_chat.json) and
+[its screenshot](results/v1_superseded_chat_screenshot.png).
 
 ## Reproduce
 

@@ -9,6 +9,9 @@ Separation rules (stricter than the notebook's exact-prefix check):
 - no eval prompt appears anywhere (checked with the repository's own matcher);
 - the tested pairs hot/cold, empty/full and noisy/quiet never share a sentence
   with the word "opposite", so the frame must transfer from other pairs;
+- no extension test's last content word is ever directly followed by that test's
+  answer (so no "bird is", "dogs are" or "she walked"); "bird" and "dogs" appear
+  only in neutral sentences so the tests stay scorable;
 - the text is written from scratch; nothing is copied from evals/ or results.
 
 Run from the repository root:  python extension_corpus/make_extension_corpus.py
@@ -25,10 +28,10 @@ from run_evals import load_suite, matching_cases, word_tokens  # noqa: E402
 rng = random.Random(7)
 
 # ---------------------------------------------------------------- grammar
-singular = ["one cat", "one horse", "one child", "one farmer", "a cat", "a bird", "a dog",
+singular = ["one cat", "one horse", "one child", "one farmer", "a cat", "a dog",
             "the cat", "the horse", "the girl", "the boy", "my sister", "my brother",
             "the baby", "our neighbor", "the old man", "he", "she", "tom", "lily"]
-plural = ["two cats", "two dogs", "three horses", "many birds", "the cats", "the birds",
+plural = ["two cats", "three horses", "many birds", "the cats", "the birds",
           "the girls", "the boys", "my friends", "our neighbors", "the children",
           "the farmers", "they", "we", "you", "tom and lily"]
 states = ["happy", "tired", "hungry", "sleepy", "busy", "calm", "small", "ready", "outside", "at home"]
@@ -77,6 +80,12 @@ for base, s3, ing, past, comp in verbs:
         grammar.add(f"tomorrow {s} will {base} {comp} .")
         grammar.add(f"last week {s} {past} {comp} .")
 
+# "bird" and "dogs" appear only where no verb of agreement follows them.
+for who in ["i", "we", "the children", "my sister", "tom"]:
+    for where in ["in the garden", "near the river", "at the farm", "in the park"]:
+        grammar.add(f"{who} saw a bird {where} .")
+        grammar.add(f"{who} fed two dogs {where} .")
+
 # --------------------------------------------------------------- opposites
 # Pairs taught with the explicit frame. None of these are the tested pairs.
 frame_pairs = [("big", "small"), ("fast", "slow"), ("early", "late"), ("heavy", "light"),
@@ -113,6 +122,18 @@ for a, b in frame_pairs + contrast_only:
 # -------------------------------------------------------------- separation
 suite = load_suite(ROOT / "evals" / "language_evals.json")
 tested_words = {"hot", "cold", "empty", "full", "noisy", "quiet"}
+function_words = {"is", "the", "a", "an", "of", "to", "into", "was", "from", "on", "at"}
+banned_pairs = {(word_tokens(c["prompt"])[-1], c["answer"]) for c in suite["cases"]
+                if c["group"] == "extend_corpus" and word_tokens(c["prompt"])[-1] not in function_words}
+
+def has_banned_pair(sentence):
+    tokens = word_tokens(sentence)
+    return any(pair in banned_pairs for pair in zip(tokens, tokens[1:]))
+
+for name, sentences in [("grammar", grammar), ("opposites", opposites)]:
+    dropped = {s for s in sentences if has_banned_pair(s)}
+    sentences -= dropped
+    print(f"{name}: dropped {len(dropped)} sentences with a test word + answer pair")
 for name, sentences in [("grammar", grammar), ("opposites", opposites)]:
     for sentence in sentences:
         assert not matching_cases(sentence, suite), (name, sentence)

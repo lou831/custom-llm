@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "grammar_practice.txt",
+      "bytes": 120996,
+      "sha256": "e21dafeb986b69c07434cefe678bd0edcc7a357b24c1ada4ac0bd09ba8bf0357",
+      "warnings": [],
+      "characters": 120996,
+      "passages": 3246,
+      "unique_passages": 3246,
+      "preview": "tomorrow the cat will cook in the kitchen .\nshe cleaned the room yesterday .\nyesterday my friends cleaned the room .\nright now our neighbors are playing in the garden .\nevery day the birds walk to the park .\nright now he is climbing the hill .\ntomorrow our neighbor will clean the room .\ntomorrow we "
+    },
+    {
+      "file": "opposites_practice.txt",
+      "bytes": 84805,
+      "sha256": "282fc097fa0de7f4faa9d0099c12bf448c2a25de55200d34b562d1f637c4ac80",
+      "warnings": [],
+      "characters": 84805,
+      "passages": 1707,
+      "unique_passages": 1707,
+      "preview": "she wanted the hot house , not the cold house .\nthis house is thin and that box is thick .\nthis road is young and that rope is old .\nthis room is light and that cup is heavy .\nthe car was soft , but the road was hard .\nshe wanted the dirty basket , not the clean basket .\nthe stone was old , but the "
+    }
+  ],
+  "ignored": [],
+  "external_passages": 4953,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 9545,
+  "new_unique_passages": 4953,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

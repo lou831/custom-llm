@@ -1,0 +1,20 @@
+{
+  "0.3": [
+    "the new car was mentioned in the traffic report yesterday .",
+    "the team discussed the brand and the price at the market .",
+    "the new website was mentioned in the security report yesterday .",
+    "the new item was mentioned in the delivery report yesterday ."
+  ],
+  "0.8": [
+    "the new car was mentioned in the traffic report yesterday .",
+    "we learned about the new investment during a discussion of risk .",
+    "one child is happy .",
+    "a review of student helped us understand the different educator ."
+  ],
+  "1.2": [
+    "three horses were at home last night .",
+    "every day many birds call a friend .",
+    "the important bus was mentioned in the journey report yesterday .",
+    "every day our neighbors jump over the fence ."
+  ]
+}
